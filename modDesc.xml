@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="47">
     <author>EDGE Gaming</author>
-    <translationby>Castiga</translationby>
     <version>1.0.0.0</version>
     <iconFilename>buyingStations_icon.dds</iconFilename>
 	<title><!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
@@ -253,7 +252,7 @@ Elenco modifiche 2.0.0.0:
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
     </brands>
-    <l10n>
+    <l10n filenamePrefix="modDesc/modDesc_l10n">
         <text name="action_turnOnMarking">
             <en>Show warning Stripes</en>
             <de>Eckmarkierungen einblenden</de>
