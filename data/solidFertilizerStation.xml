@@ -7,7 +7,7 @@
             <function>$l10n_function_EDGELights</function>
         </functions>
         <specs>
-            <fillTypes>seeds lime liquidFertilizer Fertilizer herbicide pigFood WHEAT OAT DRYGRASS_WINDROW forage digestate</fillTypes>
+            <fillTypes>fertilizer</fillTypes>
         </specs>
         <image>store/store_solidFertilizerStation.dds</image>
         <price>5000</price>
@@ -31,10 +31,10 @@
         <loadTrigger triggerNode="0|0|0|0|0" fillLitersPerSecond="1000" infiniteCapacity="true" autoStart="true">
             <effectNode effectNode="0|0|0|0|1|0" materialType="smoke" materialTypeId="1" fadeTime="0.5"/>
         </loadTrigger>
-        <fillType name="Fertilizer" priceScale="1.10"/>
+        <fillType name="fertilizer" priceScale="1.10"/>
     </buyingStation>
     <animatedObjects>
-		<animatedObject saveId="switch_01">
+		<animatedObject saveId="switch_02">
             <animation duration="0.5">
                 <part node="0|4|1|0">
 					<keyFrame time="0.0" rotation="-51 0 0"/>

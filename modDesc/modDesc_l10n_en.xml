@@ -1,53 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <l10n>
 <author>Edge Gaming / Castiga</author>
-<translationby>Castiga</translationby>
 	<texts>
-		<text name="function_EDGELights" 				text="This Building have automatic lighting."/>
-		<text name="function_waterStation" 				text="Selling Spot for Water"/>
-		<text name="name_waterStation" 					text="Water Selling Station"/>
+		<text name="function_station" 					text="Buying Spot"/>
+		<text name="name_station" 						text="All in one Buying Station"/>
+		<text name="station" 							text="All in one Shop"/>
+		<text name="function_waterStation" 				text="Buying Spot for Water"/>
+		<text name="name_waterStation" 					text="Water Buying Station"/>
 		<text name="waterStation" 						text="Water Shop"/>
-		<text name="function_tmrStation" 				text="Selling Spot for TMR"/>
-		<text name="name_tmrStation" 					text="TMR Selling Station"/>
+		<text name="function_tmrStation" 				text="Buying Spot for TMR"/>
+		<text name="name_tmrStation" 					text="TMR Buying Station"/>
 		<text name="tmrStation" 						text="TMR Shop"/>
-		<text name="function_solidFertilizerStation"	text="Selling Spot for Solid Fertilizer"/>
-		<text name="name_solidFertilizerStation" 		text="Solid Fertilizer Selling Station"/>
+		<text name="function_solidFertilizerStation"	text="Buying Spot for Solid Fertilizer"/>
+		<text name="name_solidFertilizerStation" 		text="Solid Fertilizer Buying Station"/>
 		<text name="solidFertilizerStation" 			text="Solid Fertilizer Shop"/>
-		<text name="function_slurryStation" 			text="Selling Spot for Slurry"/>
-		<text name="name_slurryStation" 				text="Slurry Selling Station"/>
+		<text name="function_slurryStation" 			text="Buying Spot for Slurry"/>
+		<text name="name_slurryStation" 				text="Slurry Buying Station"/>
 		<text name="slurryStation" 						text="Slurry Shop"/>
-		<text name="function_sheepFoodStation" 			text="Selling Spot for Sheep Food"/>
-		<text name="name_sheepFoodStation" 				text="Sheep Food Selling Station"/>
+		<text name="function_sheepFoodStation" 			text="Buying Spot for Sheep Food"/>
+		<text name="name_sheepFoodStation" 				text="Sheep Food Buying Station"/>
 		<text name="sheepFoodStation" 					text="Sheep Food Shop"/>
-		<text name="function_seedStation" 				text="Selling Spot for Seed"/>
-		<text name="name_seedStation" 					text="Seed Selling Station"/>
+		<text name="function_seedStation" 				text="Buying Spot for Seed"/>
+		<text name="name_seedStation" 					text="Seed Buying Station"/>
 		<text name="seedStation" 						text="Seed Shop"/>
-		<text name="function_saltStation"				text="Selling Spot for Salt"/>
-		<text name="name_saltStation" 					text="Salt Selling Station"/>
+		<text name="function_saltStation"				text="Buying Spot for Salt"/>
+		<text name="name_saltStation" 					text="Salt Buying Station"/>
 		<text name="saltStation" 						text="Salt Shop"/>
-		<text name="function_pigFoodStation" 			text="Selling Spot for Pig Food"/>
-		<text name="name_pigFoodStation" 				text="Pig Food Selling Station"/>
+		<text name="function_pigFoodStation" 			text="Buying Spot for Pig Food"/>
+		<text name="name_pigFoodStation" 				text="Pig Food Buying Station"/>
 		<text name="pigFoodStation" 					text="Pig Food Shop"/>
-		<text name="function_manureStation" 			text="Selling Spot for Manure"/>
-		<text name="name_manureStation" 				text="Manure Selling Station"/>
+		<text name="function_manureStation" 			text="Buying Spot for Manure"/>
+		<text name="name_manureStation" 				text="Manure Buying Station"/>
 		<text name="manureStation" 						text="Manure Shop"/>
-		<text name="function_liquidFertilizerStation" 	text="Selling Spot for Liquid Fertilizer"/>
-		<text name="name_liquidFertilizerStation" 		text="Liquid Fertilizer Selling Station"/>
+		<text name="function_liquidFertilizerStation" 	text="Buying Spot for Liquid Fertilizer"/>
+		<text name="name_liquidFertilizerStation" 		text="Liquid Fertilizer Buying Station"/>
 		<text name="liquidFertilizerStation" 			text="Liquid Fertilizer Shop"/>
-		<text name="function_limeStation" 				text="Selling Spot for Lime"/>
-		<text name="name_limeStation" 					text="Lime Selling Station"/>
+		<text name="function_limeStation" 				text="Buying Spot for Lime"/>
+		<text name="name_limeStation" 					text="Lime Buying Station"/>
 		<text name="limeStation" 						text="Lime Shop"/>
-		<text name="function_horseFoodStation" 			text="Selling Spot for Horse Food"/>
-		<text name="name_horseFoodStation" 				text="Horse Food Selling Station"/>
+		<text name="function_horseFoodStation" 			text="Buying Spot for Horse Food"/>
+		<text name="name_horseFoodStation" 				text="Horse Food Buying Station"/>
 		<text name="horseFoodStation" 					text="Horse Food Shop"/>
-		<text name="function_herbicideStation" 			text="Selling Spot for Herbicide"/>
-		<text name="name_herbicideStation" 				text="Herbicide Selling Station"/>
+		<text name="function_herbicideStation" 			text="Buying Spot for Herbicide"/>
+		<text name="name_herbicideStation" 				text="Herbicide Buying Station"/>
 		<text name="herbicideStation" 					text="Herbicide Shop"/>
-		<text name="function_digestateStation" 			text="Selling Spot for Digestate"/>
-		<text name="name_digestateStation" 				text="Digestate Selling Station"/>
+		<text name="function_digestateStation" 			text="Buying Spot for Digestate"/>
+		<text name="name_digestateStation" 				text="Digestate Buying Station"/>
 		<text name="digestateStation" 					text="Digestate Shop"/>
-		<text name="function_chickenFoodStation" 		text="Selling Spot for Chicken Food"/>
-		<text name="name_chickenFoodStation" 			text="Chicken Food Selling Station"/>
+		<text name="function_chickenFoodStation" 		text="Buying Spot for Chicken Food"/>
+		<text name="name_chickenFoodStation" 			text="Chicken Food Buying Station"/>
 		<text name="chickenFoodStation" 				text="Chicken Food Shop"/>
 	</texts>
 </l10n>

@@ -34,7 +34,7 @@
         <fillType name="dryGrass_windrow" priceScale="1.10"/>
     </buyingStation>
     <animatedObjects>
-		<animatedObject saveId="switch_01">
+		<animatedObject saveId="switch_02">
             <animation duration="0.5">
                 <part node="0|4|1|0">
 					<keyFrame time="0.0" rotation="-51 0 0"/>
