@@ -156,22 +156,22 @@ Velocità di sovraccarico 1000 litri al secondo.
     </description>
     <multiplayer supported="true"/>
     <storeItems>
-        <storeItem rootNode="placeable" xmlFilename="data/waterStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/tmrStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/solidFertilizerStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/slurryStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/sheepFoodStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/seedStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/saltStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/pigFoodStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/manureStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/liquidFertilizerStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/limeStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/horseFoodStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/herbicideStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/digestateStation.xml"/>
-        <storeItem rootNode="placeable" xmlFilename="data/chickenFoodStation.xml"/>
         <storeItem rootNode="placeable" xmlFilename="data/station.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/chickenFoodStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/digestateStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/herbicideStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/horseFoodStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/limeStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/liquidFertilizerStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/manureStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/pigFoodStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/saltStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/seedStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/sheepFoodStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/slurryStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/solidFertilizerStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/tmrStation.xml"/>
+        <storeItem rootNode="placeable" xmlFilename="data/waterStation.xml"/>
     </storeItems>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
