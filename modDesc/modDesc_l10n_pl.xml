@@ -2,52 +2,52 @@
 <l10n>
 <author>Edge Gaming / Castiga</author>
 	<texts>
-		<text name="function_station" 					text="Miejsce zakupu"/>
+		<text name="function_station" 					text="Miejsce zakupu."/>
 		<text name="name_station" 						text="Wszystko w jednym Stacja zakupowa"/>
 		<text name="station" 							text="Wszystko w jednym Sklep"/>
-		<text name="function_waterStation" 				text="Miejsce zakupu dla woda"/>
+		<text name="function_waterStation" 				text="Miejsce zakupu dla woda."/>
 		<text name="name_waterStation" 					text="woda Stacja zakupowa"/>
 		<text name="waterStation" 						text="woda Sklep"/>
-		<text name="function_tmrStation" 				text="Miejsce zakupu dla TMR"/>
+		<text name="function_tmrStation" 				text="Miejsce zakupu dla TMR."/>
 		<text name="name_tmrStation" 					text="TMR Stacja zakupowa"/>
 		<text name="tmrStation" 						text="TMR Sklep"/>
-		<text name="function_solidFertilizerStation"	text="Miejsce zakupu dla Nawóz stały"/>
+		<text name="function_solidFertilizerStation"	text="Miejsce zakupu dla Nawóz stały."/>
 		<text name="name_solidFertilizerStation" 		text="Nawóz stały Stacja zakupowa"/>
 		<text name="solidFertilizerStation" 			text="Nawóz stały Sklep"/>
-		<text name="function_slurryStation" 			text="Miejsce zakupu dla Papka"/>
+		<text name="function_slurryStation" 			text="Miejsce zakupu dla Papka."/>
 		<text name="name_slurryStation" 				text="Papka Stacja zakupowa"/>
 		<text name="slurryStation" 						text="Papka Sklep"/>
-		<text name="function_sheepFoodStation" 			text="Miejsce zakupu dla Jedzenie owiec"/>
+		<text name="function_sheepFoodStation" 			text="Miejsce zakupu dla Jedzenie owiec."/>
 		<text name="name_sheepFoodStation" 				text="Jedzenie owiec Stacja zakupowa"/>
 		<text name="sheepFoodStation" 					text="Jedzenie owiec Sklep"/>
-		<text name="function_seedStation" 				text="Miejsce zakupu dla Nasionko"/>
+		<text name="function_seedStation" 				text="Miejsce zakupu dla Nasionko."/>
 		<text name="name_seedStation" 					text="Nasionko Stacja zakupowa"/>
 		<text name="seedStation" 						text="Nasionko Sklep"/>
-		<text name="function_saltStation"				text="Miejsce zakupu dla Sól"/>
+		<text name="function_saltStation"				text="Miejsce zakupu dla Sól."/>
 		<text name="name_saltStation" 					text="Sól Stacja zakupowa"/>
 		<text name="saltStation" 						text="Sól Sklep"/>
-		<text name="function_pigFoodStation" 			text="Miejsce zakupu dla Karma dla świń"/>
+		<text name="function_pigFoodStation" 			text="Miejsce zakupu dla Karma dla świń."/>
 		<text name="name_pigFoodStation" 				text="Karma dla świń Stacja zakupowa"/>
 		<text name="pigFoodStation" 					text="Karma dla świń Sklep"/>
-		<text name="function_manureStation" 			text="Miejsce zakupu dla Nawóz"/>
+		<text name="function_manureStation" 			text="Miejsce zakupu dla Nawóz."/>
 		<text name="name_manureStation" 				text="Nawóz Stacja zakupowa"/>
 		<text name="manureStation" 						text="Nawóz Sklep"/>
-		<text name="function_liquidFertilizerStation" 	text="Miejsce zakupu dla Nawóz płynny"/>
+		<text name="function_liquidFertilizerStation" 	text="Miejsce zakupu dla Nawóz płynny."/>
 		<text name="name_liquidFertilizerStation" 		text="Nawóz płynny Stacja zakupowa"/>
 		<text name="liquidFertilizerStation" 			text="Nawóz płynny Sklep"/>
-		<text name="function_limeStation" 				text="Miejsce zakupu dla Limonka"/>
+		<text name="function_limeStation" 				text="Miejsce zakupu dla Limonka."/>
 		<text name="name_limeStation" 					text="Limonka Stacja zakupowa"/>
 		<text name="limeStation" 						text="Limonka Sklep"/>
-		<text name="function_horseFoodStation" 			text="Miejsce zakupu dla Karma dla koni"/>
+		<text name="function_horseFoodStation" 			text="Miejsce zakupu dla Karma dla koni."/>
 		<text name="name_horseFoodStation" 				text="Karma dla koni Stacja zakupowa"/>
 		<text name="horseFoodStation" 					text="Karma dla koni Sklep"/>
-		<text name="function_herbicideStation" 			text="Miejsce zakupu dla Herbicyd"/>
+		<text name="function_herbicideStation" 			text="Miejsce zakupu dla Herbicyd."/>
 		<text name="name_herbicideStation" 				text="Herbicyd Stacja zakupowa"/>
 		<text name="herbicideStation" 					text="Herbicyd Sklep"/>
-		<text name="function_digestateStation" 			text="Miejsce zakupu dla Strawić"/>
+		<text name="function_digestateStation" 			text="Miejsce zakupu dla Strawić."/>
 		<text name="name_digestateStation" 				text="Strawić Stacja zakupowa"/>
 		<text name="digestateStation" 					text="Strawić Sklep"/>
-		<text name="function_chickenFoodStation" 		text="Miejsce zakupu dla Kurczak"/>
+		<text name="function_chickenFoodStation" 		text="Miejsce zakupu dla Kurczak."/>
 		<text name="name_chickenFoodStation" 			text="Kurczak Stacja zakupowa"/>
 		<text name="chickenFoodStation" 				text="Kurczak Sklep"/>
 	</texts>

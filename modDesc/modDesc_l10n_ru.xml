@@ -2,52 +2,52 @@
 <l10n>
 <author>Edge Gaming / Castiga</author>
 	<texts>
-		<text name="function_station" 					text="Место покупки"/>
+		<text name="function_station" 					text="Место покупки."/>
 		<text name="name_station" 						text="Все в одном Станция покупки"/>
 		<text name="station" 							text="Все в одном Магазин"/>
-		<text name="function_waterStation" 				text="Место для покупки вода"/>
+		<text name="function_waterStation" 				text="Место для покупки вода."/>
 		<text name="name_waterStation" 					text="вода Станция покупки"/>
 		<text name="waterStation" 						text="вода Магазин"/>
-		<text name="function_tmrStation" 				text="Место для покупки TMR"/>
+		<text name="function_tmrStation" 				text="Место для покупки TMR."/>
 		<text name="name_tmrStation" 					text="TMR Станция покупки"/>
 		<text name="tmrStation" 						text="TMR Магазин"/>
-		<text name="function_solidFertilizerStation"	text="Место для покупки Твердое удобрение"/>
+		<text name="function_solidFertilizerStation"	text="Место для покупки Твердое удобрение."/>
 		<text name="name_solidFertilizerStation" 		text="Твердое удобрение Станция покупки"/>
 		<text name="solidFertilizerStation" 			text="Твердое удобрение Магазин"/>
-		<text name="function_slurryStation" 			text="Место для покупки пульпа"/>
+		<text name="function_slurryStation" 			text="Место для покупки пульпа."/>
 		<text name="name_slurryStation" 				text="пульпа Станция покупки"/>
 		<text name="slurryStation" 						text="пульпа Магазин"/>
-		<text name="function_sheepFoodStation" 			text="Место для покупки Овечья еда"/>
+		<text name="function_sheepFoodStation" 			text="Место для покупки Овечья еда."/>
 		<text name="name_sheepFoodStation" 				text="Овечья еда Станция покупки"/>
 		<text name="sheepFoodStation" 					text="Овечья еда Магазин"/>
-		<text name="function_seedStation" 				text="Место для покупки семя"/>
+		<text name="function_seedStation" 				text="Место для покупки семя."/>
 		<text name="name_seedStation" 					text="семя Станция покупки"/>
 		<text name="seedStation" 						text="семя Магазин"/>
-		<text name="function_saltStation"				text="Место для покупки Соль"/>
+		<text name="function_saltStation"				text="Место для покупки Соль."/>
 		<text name="name_saltStation" 					text="Соль Станция покупки"/>
 		<text name="saltStation" 						text="Соль Магазин"/>
-		<text name="function_pigFoodStation" 			text="Место для покупки Свинья еда"/>
+		<text name="function_pigFoodStation" 			text="Место для покупки Свинья еда."/>
 		<text name="name_pigFoodStation" 				text="Свинья еда Станция покупки"/>
 		<text name="pigFoodStation" 					text="Свинья еда Магазин"/>
-		<text name="function_manureStation" 			text="Место для покупки навоз"/>
+		<text name="function_manureStation" 			text="Место для покупки навоз."/>
 		<text name="name_manureStation" 				text="навоз Станция покупки"/>
 		<text name="manureStation" 						text="навоз Магазин"/>
-		<text name="function_liquidFertilizerStation" 	text="Место для покупки Жидкое удобрение"/>
+		<text name="function_liquidFertilizerStation" 	text="Место для покупки Жидкое удобрение."/>
 		<text name="name_liquidFertilizerStation" 		text="Жидкое удобрение Станция покупки"/>
 		<text name="liquidFertilizerStation" 			text="Жидкое удобрение Магазин"/>
-		<text name="function_limeStation" 				text="Место для покупки Лайм"/>
+		<text name="function_limeStation" 				text="Место для покупки Лайм."/>
 		<text name="name_limeStation" 					text="Лайм Станция покупки"/>
 		<text name="limeStation" 						text="Лайм Магазин"/>
-		<text name="function_horseFoodStation" 			text="Место для покупки Конская еда"/>
+		<text name="function_horseFoodStation" 			text="Место для покупки Конская еда."/>
 		<text name="name_horseFoodStation" 				text="Конская еда Станция покупки"/>
 		<text name="horseFoodStation" 					text="Конская еда Магазин"/>
-		<text name="function_herbicideStation" 			text="Место для покупки гербицид"/>
+		<text name="function_herbicideStation" 			text="Место для покупки гербицид."/>
 		<text name="name_herbicideStation" 				text="гербицид Станция покупки"/>
 		<text name="herbicideStation" 					text="гербицид Магазин"/>
-		<text name="function_digestateStation" 			text="Место для покупки дигестата"/>
+		<text name="function_digestateStation" 			text="Место для покупки дигестата."/>
 		<text name="name_digestateStation" 				text="дигестата Станция покупки"/>
 		<text name="digestateStation" 					text="дигестата Магазин"/>
-		<text name="function_chickenFoodStation" 		text="Место для покупки Куриная еда"/>
+		<text name="function_chickenFoodStation" 		text="Место для покупки Куриная еда."/>
 		<text name="name_chickenFoodStation" 			text="Куриная еда Станция покупки"/>
 		<text name="chickenFoodStation" 				text="Куриная еда Магазин"/>
 	</texts>

@@ -2,52 +2,52 @@
 <l10n>
 <author>Edge Gaming / Castiga</author>
 	<texts>
-		<text name="function_station" 					text="Lugar de compra"/>
+		<text name="function_station" 					text="Lugar de compra."/>
 		<text name="name_station" 						text="Todo en uno Estación de compra"/>
 		<text name="station" 							text="Todo en uno tienda"/>
-		<text name="function_waterStation" 				text="Lugar de compra para Agua"/>
+		<text name="function_waterStation" 				text="Lugar de compra para Agua."/>
 		<text name="name_waterStation" 					text="Agua Estación de compra"/>
 		<text name="waterStation" 						text="Agua tienda"/>
-		<text name="function_tmrStation" 				text="Lugar de compra para TMR"/>
+		<text name="function_tmrStation" 				text="Lugar de compra para TMR."/>
 		<text name="name_tmrStation" 					text="TMR Estación de compra"/>
 		<text name="tmrStation" 						text="TMR tienda"/>
-		<text name="function_solidFertilizerStation"	text="Lugar de compra para Fertilizante Sólido"/>
+		<text name="function_solidFertilizerStation"	text="Lugar de compra para Fertilizante Sólido."/>
 		<text name="name_solidFertilizerStation" 		text="Fertilizante Sólido Estación de compra"/>
 		<text name="solidFertilizerStation" 			text="Fertilizante Sólido tienda"/>
-		<text name="function_slurryStation" 			text="Lugar de compra para Estiércol líquido"/>
+		<text name="function_slurryStation" 			text="Lugar de compra para Estiércol líquido."/>
 		<text name="name_slurryStation" 				text="Estiércol líquido Estación de compra"/>
 		<text name="slurryStation" 						text="Estiércol líquido tienda"/>
-		<text name="function_sheepFoodStation" 			text="Lugar de compra para Comida de oveja"/>
+		<text name="function_sheepFoodStation" 			text="Lugar de compra para Comida de oveja."/>
 		<text name="name_sheepFoodStation" 				text="Comida de oveja Estación de compra"/>
 		<text name="sheepFoodStation" 					text="Comida de oveja tienda"/>
-		<text name="function_seedStation" 				text="Lugar de compra para Semilla"/>
+		<text name="function_seedStation" 				text="Lugar de compra para Semilla."/>
 		<text name="name_seedStation" 					text="Semilla Estación de compra"/>
 		<text name="seedStation" 						text="Semilla tienda"/>
-		<text name="function_saltStation"				text="Lugar de compra para sal"/>
+		<text name="function_saltStation"				text="Lugar de compra para sal."/>
 		<text name="name_saltStation" 					text="sal Estación de compra"/>
 		<text name="saltStation" 						text="sal tienda"/>
-		<text name="function_pigFoodStation" 			text="Lugar de compra para Comida de cerdo"/>
+		<text name="function_pigFoodStation" 			text="Lugar de compra para Comida de cerdo."/>
 		<text name="name_pigFoodStation" 				text="Comida de cerdo Estación de compra"/>
 		<text name="pigFoodStation" 					text="Comida de cerdo tienda"/>
-		<text name="function_manureStation" 			text="Lugar de compra para Estiércol"/>
+		<text name="function_manureStation" 			text="Lugar de compra para Estiércol."/>
 		<text name="name_manureStation" 				text="Estiércol Estación de compra"/>
 		<text name="manureStation" 						text="Estiércol tienda"/>
-		<text name="function_liquidFertilizerStation" 	text="Lugar de compra para Fertilizante Liquido"/>
+		<text name="function_liquidFertilizerStation" 	text="Lugar de compra para Fertilizante Liquido."/>
 		<text name="name_liquidFertilizerStation" 		text="Fertilizante Liquido Estación de compra"/>
 		<text name="liquidFertilizerStation" 			text="Fertilizante Liquido tienda"/>
-		<text name="function_limeStation" 				text="Lugar de compra para Lima"/>
+		<text name="function_limeStation" 				text="Lugar de compra para Lima."/>
 		<text name="name_limeStation" 					text="Lima Estación de compra"/>
 		<text name="limeStation" 						text="Lima tienda"/>
-		<text name="function_horseFoodStation" 			text="Lugar de compra para Comida de caballo"/>
+		<text name="function_horseFoodStation" 			text="Lugar de compra para Comida de caballo."/>
 		<text name="name_horseFoodStation" 				text="Comida de caballo Estación de compra"/>
 		<text name="horseFoodStation" 					text="Comida de caballo tienda"/>
-		<text name="function_herbicideStation" 			text="Lugar de compra para Herbicida"/>
+		<text name="function_herbicideStation" 			text="Lugar de compra para Herbicida."/>
 		<text name="name_herbicideStation" 				text="Herbicida Estación de compra"/>
 		<text name="herbicideStation" 					text="Herbicida tienda"/>
-		<text name="function_digestateStation" 			text="Lugar de compra para Digestato"/>
+		<text name="function_digestateStation" 			text="Lugar de compra para Digestato."/>
 		<text name="name_digestateStation" 				text="Digestato Estación de compra"/>
 		<text name="digestateStation" 					text="Digestato tienda"/>
-		<text name="function_chickenFoodStation" 		text="Lugar de compra para Comida de pollo"/>
+		<text name="function_chickenFoodStation" 		text="Lugar de compra para Comida de pollo."/>
 		<text name="name_chickenFoodStation" 			text="Comida de pollo Estación de compra"/>
 		<text name="chickenFoodStation" 				text="Comida de pollo tienda"/>
 	</texts>

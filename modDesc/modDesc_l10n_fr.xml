@@ -2,52 +2,52 @@
 <l10n>
 <author>Edge Gaming / Castiga</author>
 	<texts>
-		<text name="function_station" 					text="Spot d'achat"/>
+		<text name="function_station" 					text="Spot d'achat."/>
 		<text name="name_station" 						text="Tout en un Station d'achat"/>
 		<text name="station" 							text="Tout en un Boutique"/>
-		<text name="function_waterStation" 				text="Spot d'achat pour Eau"/>
+		<text name="function_waterStation" 				text="Spot d'achat pour Eau."/>
 		<text name="name_waterStation" 					text="Eau Station d'achat"/>
 		<text name="waterStation" 						text="Eau Boutique"/>
-		<text name="function_tmrStation" 				text="Spot d'achat pour TMR"/>
+		<text name="function_tmrStation" 				text="Spot d'achat pour TMR."/>
 		<text name="name_tmrStation" 					text="TMR Station d'achat"/>
 		<text name="tmrStation" 						text="TMR Boutique"/>
-		<text name="function_solidFertilizerStation"	text="Spot d'achat pour Engrais solide"/>
+		<text name="function_solidFertilizerStation"	text="Spot d'achat pour Engrais solide."/>
 		<text name="name_solidFertilizerStation" 		text="Engrais solide Station d'achat"/>
 		<text name="solidFertilizerStation" 			text="Engrais solide Boutique"/>
-		<text name="function_slurryStation" 			text="Spot d'achat pour Lisier"/>
+		<text name="function_slurryStation" 			text="Spot d'achat pour Lisier."/>
 		<text name="name_slurryStation" 				text="Lisier Station d'achat"/>
 		<text name="slurryStation" 						text="Lisier Boutique"/>
-		<text name="function_sheepFoodStation" 			text="Spot d'achat pour Nourriture pour moutons"/>
+		<text name="function_sheepFoodStation" 			text="Spot d'achat pour Nourriture pour moutons."/>
 		<text name="name_sheepFoodStation" 				text="Nourriture pour moutons Station d'achat"/>
 		<text name="sheepFoodStation" 					text="Nourriture pour moutons Boutique"/>
-		<text name="function_seedStation" 				text="Spot d'achat pour La graine"/>
+		<text name="function_seedStation" 				text="Spot d'achat pour La graine."/>
 		<text name="name_seedStation" 					text="La graine Station d'achat"/>
 		<text name="seedStation" 						text="La graine Boutique"/>
-		<text name="function_saltStation"				text="Spot d'achat pour Sel"/>
+		<text name="function_saltStation"				text="Spot d'achat pour Sel."/>
 		<text name="name_saltStation" 					text="Sel Station d'achat"/>
 		<text name="saltStation" 						text="Sel Boutique"/>
-		<text name="function_pigFoodStation" 			text="Spot d'achat pour Nourriture pour porc"/>
+		<text name="function_pigFoodStation" 			text="Spot d'achat pour Nourriture pour porc."/>
 		<text name="name_pigFoodStation" 				text="Nourriture pour porc Station d'achat"/>
 		<text name="pigFoodStation" 					text="Nourriture pour porc Boutique"/>
-		<text name="function_manureStation" 			text="Spot d'achat pour Fumier"/>
+		<text name="function_manureStation" 			text="Spot d'achat pour Fumier."/>
 		<text name="name_manureStation" 				text="Fumier Station d'achat"/>
 		<text name="manureStation" 						text="Fumier Boutique"/>
-		<text name="function_liquidFertilizerStation" 	text="Spot d'achat pour Engrais liquide"/>
+		<text name="function_liquidFertilizerStation" 	text="Spot d'achat pour Engrais liquide."/>
 		<text name="name_liquidFertilizerStation" 		text="Engrais liquide Station d'achat"/>
 		<text name="liquidFertilizerStation" 			text="Engrais liquide Boutique"/>
-		<text name="function_limeStation" 				text="Spot d'achat pour chaux"/>
+		<text name="function_limeStation" 				text="Spot d'achat pour chaux."/>
 		<text name="name_limeStation" 					text="chaux Station d'achat"/>
 		<text name="limeStation" 						text="chaux Boutique"/>
-		<text name="function_horseFoodStation" 			text="Spot d'achat pour Nourriture pour chevaux"/>
+		<text name="function_horseFoodStation" 			text="Spot d'achat pour Nourriture pour chevaux."/>
 		<text name="name_horseFoodStation" 				text="Nourriture pour chevaux Station d'achat"/>
 		<text name="horseFoodStation" 					text="Nourriture pour chevaux Boutique"/>
-		<text name="function_herbicideStation" 			text="Spot d'achat pour Herbicide"/>
+		<text name="function_herbicideStation" 			text="Spot d'achat pour Herbicide."/>
 		<text name="name_herbicideStation" 				text="Herbicide Station d'achat"/>
 		<text name="herbicideStation" 					text="Herbicide Boutique"/>
-		<text name="function_digestateStation" 			text="Spot d'achat pour Digestate"/>
+		<text name="function_digestateStation" 			text="Spot d'achat pour Digestate."/>
 		<text name="name_digestateStation" 				text="Digestate Station d'achat"/>
 		<text name="digestateStation" 					text="Digestate Boutique"/>
-		<text name="function_chickenFoodStation" 		text="Spot d'achat pour Nourriture au poulet"/>
+		<text name="function_chickenFoodStation" 		text="Spot d'achat pour Nourriture au poulet."/>
 		<text name="name_chickenFoodStation" 			text="Nourriture au poulet Station d'achat"/>
 		<text name="chickenFoodStation" 				text="Nourriture au poulet Boutique"/>
 	</texts>

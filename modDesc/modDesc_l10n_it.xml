@@ -2,52 +2,52 @@
 <l10n>
 <author>Edge Gaming / Castiga</author>
 	<texts>
-		<text name="function_station" 					text="Acquisto spot"/>
+		<text name="function_station" 					text="Acquisto spot."/>
 		<text name="name_station" 						text="Tutto in uno Stazione d'acquisto"/>
 		<text name="station" 							text="Tutto in uno Negozio"/>
-		<text name="function_waterStation" 				text="Acquisto spot per acqua"/>
+		<text name="function_waterStation" 				text="Acquisto spot per acqua."/>
 		<text name="name_waterStation" 					text="acqua Stazione d'acquisto"/>
 		<text name="waterStation" 						text="acqua Negozio"/>
-		<text name="function_tmrStation" 				text="Acquisto spot per TMR"/>
+		<text name="function_tmrStation" 				text="Acquisto spot per TMR."/>
 		<text name="name_tmrStation" 					text="TMR Stazione d'acquisto"/>
 		<text name="tmrStation" 						text="TMR Negozio"/>
-		<text name="function_solidFertilizerStation"	text="Acquisto spot per Fertilizzante solido"/>
+		<text name="function_solidFertilizerStation"	text="Acquisto spot per Fertilizzante solido."/>
 		<text name="name_solidFertilizerStation" 		text="Fertilizzante solido Stazione d'acquisto"/>
 		<text name="solidFertilizerStation" 			text="Fertilizzante solido Negozio"/>
-		<text name="function_slurryStation" 			text="Acquisto spot per Liquami"/>
+		<text name="function_slurryStation" 			text="Acquisto spot per Liquami."/>
 		<text name="name_slurryStation" 				text="Liquami Stazione d'acquisto"/>
 		<text name="slurryStation" 						text="Liquami Negozio"/>
-		<text name="function_sheepFoodStation" 			text="Acquisto spot per Cibo Di Pecora"/>
+		<text name="function_sheepFoodStation" 			text="Acquisto spot per Cibo Di Pecora."/>
 		<text name="name_sheepFoodStation" 				text="Cibo Di Pecora Stazione d'acquisto"/>
 		<text name="sheepFoodStation" 					text="Cibo Di Pecora Negozio"/>
-		<text name="function_seedStation" 				text="Acquisto spot per seme"/>
+		<text name="function_seedStation" 				text="Acquisto spot per seme."/>
 		<text name="name_seedStation" 					text="seme Stazione d'acquisto"/>
 		<text name="seedStation" 						text="seme Negozio"/>
-		<text name="function_saltStation"				text="Acquisto spot per sale"/>
+		<text name="function_saltStation"				text="Acquisto spot per sale."/>
 		<text name="name_saltStation" 					text="sale Stazione d'acquisto"/>
 		<text name="saltStation" 						text="sale Negozio"/>
-		<text name="function_pigFoodStation" 			text="Acquisto spot per Cibo per suini"/>
+		<text name="function_pigFoodStation" 			text="Acquisto spot per Cibo per suini."/>
 		<text name="name_pigFoodStation" 				text="Cibo per suini Stazione d'acquisto"/>
 		<text name="pigFoodStation" 					text="Cibo per suini Negozio"/>
-		<text name="function_manureStation" 			text="Acquisto spot per Letame"/>
+		<text name="function_manureStation" 			text="Acquisto spot per Letame."/>
 		<text name="name_manureStation" 				text="Letame Stazione d'acquisto"/>
 		<text name="manureStation" 						text="Letame Negozio"/>
-		<text name="function_liquidFertilizerStation" 	text="Acquisto spot per Fertilizzante liquido"/>
+		<text name="function_liquidFertilizerStation" 	text="Acquisto spot per Fertilizzante liquido."/>
 		<text name="name_liquidFertilizerStation" 		text="Fertilizzante liquido Stazione d'acquisto"/>
 		<text name="liquidFertilizerStation" 			text="Fertilizzante liquido Negozio"/>
-		<text name="function_limeStation" 				text="Acquisto spot per Lime"/>
+		<text name="function_limeStation" 				text="Acquisto spot per Lime."/>
 		<text name="name_limeStation" 					text="Lime Stazione d'acquisto"/>
 		<text name="limeStation" 						text="Lime Negozio"/>
-		<text name="function_horseFoodStation" 			text="Acquisto spot per Cibo per cavalli"/>
+		<text name="function_horseFoodStation" 			text="Acquisto spot per Cibo per cavalli."/>
 		<text name="name_horseFoodStation" 				text="Cibo per cavalli Stazione d'acquisto"/>
 		<text name="horseFoodStation" 					text="Cibo per cavalli Negozio"/>
-		<text name="function_herbicideStation" 			text="Acquisto spot per Erbicida"/>
+		<text name="function_herbicideStation" 			text="Acquisto spot per Erbicida."/>
 		<text name="name_herbicideStation" 				text="Erbicida Stazione d'acquisto"/>
 		<text name="herbicideStation" 					text="Erbicida Negozio"/>
-		<text name="function_digestateStation" 			text="Acquisto spot per digestato"/>
+		<text name="function_digestateStation" 			text="Acquisto spot per digestato."/>
 		<text name="name_digestateStation" 				text="digestato Stazione d'acquisto"/>
 		<text name="digestateStation" 					text="digestato Negozio"/>
-		<text name="function_chickenFoodStation" 		text="Acquisto spot per Cibo Di Pollo"/>
+		<text name="function_chickenFoodStation" 		text="Acquisto spot per Cibo Di Pollo."/>
 		<text name="name_chickenFoodStation" 			text="Cibo Di Pollo Stazione d'acquisto"/>
 		<text name="chickenFoodStation" 				text="Cibo Di Pollo Negozio"/>
 	</texts>

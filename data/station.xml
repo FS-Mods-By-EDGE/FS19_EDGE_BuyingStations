@@ -27,8 +27,8 @@
         <dayNightObject node="4|1|1|0" visibleDay="true" visibleNight="true" intensityDay="0.6" intensityNight="0.6"/>
     </dayNightObjects>
     <tipOcclusionUpdateArea sizeX="4.5" sizeZ="2"/>
-    <buyingStation stationName="$l10n_station" appearsOnPDA="false" storageRadius="0" fillSoundIdentifier="fillSound01" showHotspotText="false">
-        <loadTrigger triggerNode="0|0|0|0|0" fillLitersPerSecond="1000" infiniteCapacity="true" autoStart="true">
+    <buyingStation stationName="$l10n_station" appearsOnPDA="true" storageRadius="0" fillSoundIdentifier="fillSound01" showHotspotText="false">
+        <loadTrigger triggerNode="0|0|0|0|0" fillLitersPerSecond="1000" infiniteCapacity="true">
             <effectNode effectNode="0|0|0|0|1|0" materialType="smoke" materialTypeId="1" fadeTime="0.5"/>
         </loadTrigger>
         <fillType name="water" priceScale="1.10"/>
