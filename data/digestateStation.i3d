@@ -2,239 +2,296 @@
 
 <i3D name="digestateStation" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
   <Asset>
-    <Export program="GIANTS Editor 64bit" version="8.2.0"/>
+    <Export program="GIANTS Editor 64bit" version="8.2.2"/>
   </Asset>
 
   <Files>
-    <File fileId="88" filename="textures/EDGE_Decal_diffuse.dds"/>
-    <File fileId="89" filename="textures/EDGE_Decal_normal.dds"/>
-    <File fileId="90" filename="textures/EDGE_Decal_specular.dds"/>
-    <File fileId="76" filename="textures/GridEDGE00_diffuse.dds"/>
-    <File fileId="77" filename="textures/GridEDGE00_normal.dds"/>
-    <File fileId="78" filename="textures/GridEDGE00_specular.dds"/>
-    <File fileId="19" filename="textures/barrels_diffuse.dds"/>
-    <File fileId="20" filename="textures/barrels_normal.dds"/>
-    <File fileId="21" filename="textures/barrels_specular.dds"/>
-    <File fileId="85" filename="textures/building_diffuse.dds"/>
-    <File fileId="86" filename="textures/building_normal.dds"/>
-    <File fileId="87" filename="textures/building_specular.dds"/>
-    <File fileId="49" filename="textures/carBattery_diffuse.dds"/>
-    <File fileId="50" filename="textures/carBattery_normal.dds"/>
-    <File fileId="51" filename="textures/carBattery_specular.dds"/>
-    <File fileId="91" filename="textures/digestateSign_diffuse.dds"/>
-    <File fileId="92" filename="textures/digestateSign_normal.dds"/>
-    <File fileId="93" filename="textures/digestateSign_specular.dds"/>
-    <File fileId="13" filename="textures/digestateTank_diffuse.dds"/>
-    <File fileId="75" filename="textures/extensionCordGreen_diffuse.dds"/>
-    <File fileId="74" filename="textures/extensionCordWhite_diffuse.dds"/>
-    <File fileId="66" filename="textures/extensionCord_diffuse.dds"/>
-    <File fileId="67" filename="textures/extensionCord_normal.dds"/>
-    <File fileId="68" filename="textures/extensionCord_specular.dds"/>
-    <File fileId="71" filename="textures/gardenHoseReel_diffuse.dds"/>
-    <File fileId="72" filename="textures/gardenHoseReel_normal.dds"/>
-    <File fileId="73" filename="textures/gardenHoseReel_specular.dds"/>
+    <File fileId="89" filename="textures/EDGE_Decal_diffuse.dds"/>
+    <File fileId="90" filename="textures/EDGE_Decal_normal.dds"/>
+    <File fileId="91" filename="textures/EDGE_Decal_specular.dds"/>
+    <File fileId="104" filename="textures/GridEDGE00_diffuse.dds"/>
+    <File fileId="105" filename="textures/GridEDGE00_normal.dds"/>
+    <File fileId="92" filename="textures/GridEDGE00_specular.dds"/>
+    <File fileId="18" filename="textures/barrels_diffuse.dds"/>
+    <File fileId="19" filename="textures/barrels_normal.dds"/>
+    <File fileId="20" filename="textures/barrels_specular.dds"/>
+    <File fileId="48" filename="textures/carBattery_diffuse.dds"/>
+    <File fileId="49" filename="textures/carBattery_normal.dds"/>
+    <File fileId="50" filename="textures/carBattery_specular.dds"/>
+    <File fileId="93" filename="textures/digestateSign_diffuse.dds"/>
+    <File fileId="94" filename="textures/digestateSign_normal.dds"/>
+    <File fileId="95" filename="textures/digestateSign_specular.dds"/>
+    <File fileId="12" filename="textures/digestateTank_diffuse.dds"/>
+    <File fileId="74" filename="textures/extensionCordGreen_diffuse.dds"/>
+    <File fileId="73" filename="textures/extensionCordWhite_diffuse.dds"/>
+    <File fileId="70" filename="textures/gardenHoseReel_diffuse.dds"/>
+    <File fileId="71" filename="textures/gardenHoseReel_normal.dds"/>
+    <File fileId="72" filename="textures/gardenHoseReel_specular.dds"/>
+    <File fileId="30" filename="textures/nail_diffuse.dds"/>
+    <File fileId="32" filename="textures/nail_specular.dds"/>
+    <File fileId="24" filename="textures/oil_diffuse.png"/>
+    <File fileId="25" filename="textures/oil_normal.png"/>
+    <File fileId="26" filename="textures/oil_specular.png"/>
+    <File fileId="68" filename="textures/powerPlugs_diffuse.dds"/>
+    <File fileId="69" filename="textures/powerPlugs_specular.dds"/>
+    <File fileId="87" filename="textures/EDGE_Decal_diffuse.dds"/>
+    <File fileId="88" filename="textures/EDGE_Decal_normal.dds"/>
+    <File fileId="75" filename="textures/GridEDGE00_diffuse.dds"/>
+    <File fileId="76" filename="textures/GridEDGE00_normal.dds"/>
+    <File fileId="77" filename="textures/GridEDGE00_specular.dds" colorProfile="sRGB"/>
+    <File fileId="78" filename="textures/building_diffuse.dds"/>
+    <File fileId="79" filename="textures/building_normal.dds"/>
+    <File fileId="80" filename="textures/building_specular.dds"/>
     <File fileId="2" filename="textures/lightswitch_diffuse.dds"/>
     <File fileId="3" filename="textures/lightswitch_normal.dds"/>
     <File fileId="4" filename="textures/lightswitch_specular.dds"/>
-    <File fileId="31" filename="textures/nail_diffuse.dds"/>
-    <File fileId="33" filename="textures/nail_specular.dds"/>
-    <File fileId="25" filename="textures/oil_diffuse.png"/>
-    <File fileId="26" filename="textures/oil_normal.png"/>
-    <File fileId="27" filename="textures/oil_specular.png"/>
-    <File fileId="69" filename="textures/powerPlugs_diffuse.dds"/>
-    <File fileId="70" filename="textures/powerPlugs_specular.dds"/>
-    <File fileId="10" filename="$data/fillPlanes/liquidManure_diffuse.dds"/>
-    <File fileId="11" filename="$data/fillPlanes/liquidManure_normal.dds"/>
-    <File fileId="16" filename="$data/maps/textures/american/props/barrelPlasticBlue_diffuse.png"/>
-    <File fileId="17" filename="$data/maps/textures/american/props/barrelPlasticBlue_normal.png"/>
-    <File fileId="18" filename="$data/maps/textures/american/props/barrelPlasticBlue_specular.png"/>
-    <File fileId="37" filename="$data/maps/textures/american/props/burner_diffuse.png"/>
-    <File fileId="38" filename="$data/maps/textures/american/props/burner_normal.png"/>
-    <File fileId="39" filename="$data/maps/textures/american/props/burner_specular.png"/>
-    <File fileId="22" filename="$data/maps/textures/american/props/cabinetWorkbench_diffuse.dds"/>
-    <File fileId="23" filename="$data/maps/textures/american/props/cabinetWorkbench_normal.dds"/>
-    <File fileId="24" filename="$data/maps/textures/american/props/cabinetWorkbench_specular.dds"/>
-    <File fileId="28" filename="$data/maps/textures/american/props/cardboardBoxes_diffuse.dds"/>
-    <File fileId="29" filename="$data/maps/textures/american/props/cardboardBoxes_normal.dds"/>
-    <File fileId="30" filename="$data/maps/textures/american/props/cardboardBoxes_specular.dds"/>
-    <File fileId="40" filename="$data/maps/textures/american/props/hammers_diffuse.dds"/>
-    <File fileId="41" filename="$data/maps/textures/american/props/hammers_normal.dds"/>
-    <File fileId="42" filename="$data/maps/textures/american/props/hammers_specular.dds"/>
-    <File fileId="52" filename="$data/maps/textures/american/props/oilCan_diffuse.png"/>
-    <File fileId="53" filename="$data/maps/textures/american/props/oilCan_normal.png"/>
-    <File fileId="54" filename="$data/maps/textures/american/props/oilCan_specular.png"/>
-    <File fileId="34" filename="$data/maps/textures/american/props/oiler_diffuse.png"/>
-    <File fileId="35" filename="$data/maps/textures/american/props/oiler_normal.png"/>
-    <File fileId="36" filename="$data/maps/textures/american/props/oiler_specular.png"/>
-    <File fileId="43" filename="$data/maps/textures/american/props/pliers_diffuse.png"/>
-    <File fileId="44" filename="$data/maps/textures/american/props/pliers_normal.png"/>
-    <File fileId="45" filename="$data/maps/textures/american/props/pliers_specular.png"/>
-    <File fileId="55" filename="$data/maps/textures/american/props/radio_diffuse.dds"/>
-    <File fileId="56" filename="$data/maps/textures/american/props/radio_normal.dds"/>
-    <File fileId="57" filename="$data/maps/textures/american/props/radio_specular.dds"/>
-    <File fileId="63" filename="$data/maps/textures/american/props/waterBarrelRack_diffuse.png"/>
-    <File fileId="64" filename="$data/maps/textures/american/props/waterBarrelRack_normal.png"/>
-    <File fileId="65" filename="$data/maps/textures/american/props/waterBarrelRack_specular.png"/>
-    <File fileId="60" filename="$data/maps/textures/american/props/waterWellCaps_diffuse.png"/>
-    <File fileId="61" filename="$data/maps/textures/american/props/waterWellCaps_normal.png"/>
-    <File fileId="62" filename="$data/maps/textures/american/props/waterWellCaps_specular.png"/>
-    <File fileId="94" filename="$data/maps/textures/european/props/floodlightFixture_diffuse.dds"/>
-    <File fileId="95" filename="$data/maps/textures/european/props/floodlightFixture_normal.dds"/>
-    <File fileId="96" filename="$data/maps/textures/european/props/floodlightFixture_specular.dds"/>
-    <File fileId="101" filename="$data/maps/textures/european/props/lightPoleSet_emissive.dds"/>
-    <File fileId="32" filename="$data/maps/textures/shared/default_normal.dds"/>
-    <File fileId="59" filename="$data/maps/textures/shared/default_specular.dds"/>
-    <File fileId="102" filename="$data/maps/textures/shared/warningStripes_diffuse.png"/>
-    <File fileId="103" filename="$data/maps/textures/shared/warningStripes_normal.png"/>
-    <File fileId="104" filename="$data/maps/textures/shared/warningStripes_specular.png"/>
-    <File fileId="14" filename="$data/objects/pallets/liquidTank/fertilizerTank_normal.png"/>
-    <File fileId="15" filename="$data/objects/pallets/liquidTank/fertilizerTank_specular.png"/>
-    <File fileId="58" filename="$data/objects/pallets/pioneer/pioneerPallet_diffuse.dds"/>
-    <File fileId="12" filename="$data/placeables/animalHusbandry/liquidManure_specular.dds"/>
-    <File fileId="79" filename="$data/shaders/buildingShader.xml"/>
-    <File fileId="100" filename="$data/shaders/dashboardLightsShader.xml"/>
-    <File fileId="6" filename="$data/shaders/vehicleShader.xml"/>
-    <File fileId="98" filename="$data/shared/default_normal.png"/>
-    <File fileId="97" filename="$data/shared/window02_diffuse.dds"/>
-    <File fileId="99" filename="$data/shared/window02_specular.dds"/>
-    <File fileId="46" filename="$data/store/ui/textures/ironForged_diffuse.dds"/>
-    <File fileId="47" filename="$data/store/ui/textures/ironForged_normal.dds"/>
-    <File fileId="48" filename="$data/store/ui/textures/ironForged_specular.dds"/>
+    <File fileId="9" filename="$data/fillPlanes/liquidManure_diffuse.dds"/>
+    <File fileId="10" filename="$data/fillPlanes/liquidManure_normal.dds"/>
+    <File fileId="15" filename="$data/maps/textures/american/props/barrelPlasticBlue_diffuse.png"/>
+    <File fileId="16" filename="$data/maps/textures/american/props/barrelPlasticBlue_normal.png"/>
+    <File fileId="17" filename="$data/maps/textures/american/props/barrelPlasticBlue_specular.png"/>
+    <File fileId="36" filename="$data/maps/textures/american/props/burner_diffuse.png"/>
+    <File fileId="37" filename="$data/maps/textures/american/props/burner_normal.png"/>
+    <File fileId="38" filename="$data/maps/textures/american/props/burner_specular.png"/>
+    <File fileId="21" filename="$data/maps/textures/american/props/cabinetWorkbench_diffuse.dds"/>
+    <File fileId="22" filename="$data/maps/textures/american/props/cabinetWorkbench_normal.dds"/>
+    <File fileId="23" filename="$data/maps/textures/american/props/cabinetWorkbench_specular.dds"/>
+    <File fileId="27" filename="$data/maps/textures/american/props/cardboardBoxes_diffuse.dds"/>
+    <File fileId="28" filename="$data/maps/textures/american/props/cardboardBoxes_normal.dds"/>
+    <File fileId="29" filename="$data/maps/textures/american/props/cardboardBoxes_specular.dds"/>
+    <File fileId="65" filename="$data/maps/textures/american/props/extensionCord_diffuse.dds"/>
+    <File fileId="66" filename="$data/maps/textures/american/props/extensionCord_normal.dds"/>
+    <File fileId="67" filename="$data/maps/textures/american/props/extensionCord_specular.dds"/>
+    <File fileId="39" filename="$data/maps/textures/american/props/hammers_diffuse.dds"/>
+    <File fileId="40" filename="$data/maps/textures/american/props/hammers_normal.dds"/>
+    <File fileId="41" filename="$data/maps/textures/american/props/hammers_specular.dds"/>
+    <File fileId="51" filename="$data/maps/textures/american/props/oilCan_diffuse.png"/>
+    <File fileId="52" filename="$data/maps/textures/american/props/oilCan_normal.png"/>
+    <File fileId="53" filename="$data/maps/textures/american/props/oilCan_specular.png"/>
+    <File fileId="33" filename="$data/maps/textures/american/props/oiler_diffuse.png"/>
+    <File fileId="34" filename="$data/maps/textures/american/props/oiler_normal.png"/>
+    <File fileId="35" filename="$data/maps/textures/american/props/oiler_specular.png"/>
+    <File fileId="42" filename="$data/maps/textures/american/props/pliers_diffuse.png"/>
+    <File fileId="43" filename="$data/maps/textures/american/props/pliers_normal.png"/>
+    <File fileId="44" filename="$data/maps/textures/american/props/pliers_specular.png"/>
+    <File fileId="54" filename="$data/maps/textures/american/props/radio_diffuse.dds"/>
+    <File fileId="55" filename="$data/maps/textures/american/props/radio_normal.dds"/>
+    <File fileId="56" filename="$data/maps/textures/american/props/radio_specular.dds"/>
+    <File fileId="62" filename="$data/maps/textures/american/props/waterBarrelRack_diffuse.png"/>
+    <File fileId="63" filename="$data/maps/textures/american/props/waterBarrelRack_normal.png"/>
+    <File fileId="64" filename="$data/maps/textures/american/props/waterBarrelRack_specular.png"/>
+    <File fileId="59" filename="$data/maps/textures/american/props/waterWellCaps_diffuse.png"/>
+    <File fileId="60" filename="$data/maps/textures/american/props/waterWellCaps_normal.png"/>
+    <File fileId="61" filename="$data/maps/textures/american/props/waterWellCaps_specular.png"/>
+    <File fileId="96" filename="$data/maps/textures/european/props/floodlightFixture_diffuse.dds"/>
+    <File fileId="97" filename="$data/maps/textures/european/props/floodlightFixture_normal.dds"/>
+    <File fileId="98" filename="$data/maps/textures/european/props/floodlightFixture_specular.dds"/>
+    <File fileId="103" filename="$data/maps/textures/european/props/lightPoleSet_emissive.dds"/>
+    <File fileId="31" filename="$data/maps/textures/shared/default_normal.dds"/>
+    <File fileId="58" filename="$data/maps/textures/shared/default_specular.dds"/>
+    <File fileId="106" filename="$data/maps/textures/shared/warningStripes_diffuse.png"/>
+    <File fileId="107" filename="$data/maps/textures/shared/warningStripes_normal.png"/>
+    <File fileId="108" filename="$data/maps/textures/shared/warningStripes_specular.png"/>
+    <File fileId="13" filename="$data/objects/pallets/liquidTank/fertilizerTank_normal.png"/>
+    <File fileId="14" filename="$data/objects/pallets/liquidTank/fertilizerTank_specular.png"/>
+    <File fileId="57" filename="$data/objects/pallets/pioneer/pioneerPallet_diffuse.dds"/>
+    <File fileId="11" filename="$data/placeables/animalHusbandry/liquidManure_specular.dds"/>
+    <File fileId="81" filename="$data/shaders/buildingShader.xml"/>
+    <File fileId="102" filename="$data/shaders/dashboardLightsShader.xml"/>
+    <File fileId="5" filename="$data/shaders/vehicleShader.xml"/>
+    <File fileId="100" filename="$data/shared/default_normal.png"/>
+    <File fileId="99" filename="$data/shared/window02_diffuse.dds"/>
+    <File fileId="101" filename="$data/shared/window02_specular.dds"/>
+    <File fileId="45" filename="$data/store/ui/textures/ironForged_diffuse.dds"/>
+    <File fileId="46" filename="$data/store/ui/textures/ironForged_normal.dds"/>
+    <File fileId="47" filename="$data/store/ui/textures/ironForged_specular.dds"/>
   </Files>
 
 
   <Materials>
-    <Material name="extensionCords_mat" materialId="8">
-      <Texture fileId="66"/>
-      <Normalmap fileId="67"/>
-      <Glossmap fileId="68"/>
+    <Material name="barrelPlasticBlue_mat" materialId="16">
+      <Texture fileId="15"/>
+      <Normalmap fileId="16"/>
+      <Glossmap fileId="17"/>
     </Material>
-    <Material name="oilCan_mat" materialId="12">
-      <Texture fileId="52"/>
-      <Normalmap fileId="53"/>
-      <Glossmap fileId="54"/>
+    <Material name="barrels_mat" materialId="14">
+      <Texture fileId="18"/>
+      <Normalmap fileId="19"/>
+      <Glossmap fileId="20"/>
     </Material>
-    <Material name="gardenHoseReel_mat" materialId="13">
-      <Texture fileId="71"/>
-      <Normalmap fileId="72"/>
-      <Glossmap fileId="73"/>
+    <Material name="book_mat" materialId="36">
+      <Texture fileId="57"/>
+      <Normalmap fileId="31"/>
+      <Glossmap fileId="58"/>
     </Material>
-    <Material name="powerPlugs_mat" materialId="18">
-      <Texture fileId="69"/>
-      <Glossmap fileId="70"/>
+    <Material name="building_mat" materialId="271" customShaderId="81">
+      <Texture fileId="78"/>
+      <Normalmap fileId="79"/>
+      <Glossmap fileId="80"/>
     </Material>
-    <Material name="jdOil_mat" materialId="23">
-      <Texture fileId="25"/>
-      <Normalmap fileId="26"/>
-      <Glossmap fileId="27"/>
+    <Material name="burner_mat" materialId="38">
+      <Texture fileId="36"/>
+      <Normalmap fileId="37"/>
+      <Glossmap fileId="38"/>
     </Material>
-    <Material name="WaterWellCaps_mat" materialId="9">
-      <Texture fileId="60"/>
-      <Normalmap fileId="61"/>
-      <Glossmap fileId="62"/>
+    <Material name="buyingStation" materialId="13">
+      <Texture fileId="9"/>
+      <Normalmap fileId="10"/>
+      <Glossmap fileId="11"/>
     </Material>
-    <Material name="extensionCordGreen_mat" materialId="14">
+    <Material name="buyingStation" materialId="11" diffuseColor="0.494118 0.494118 0.494118 1">
+    </Material>
+    <Material name="cabinetWorkbench_mat" materialId="41">
+      <Texture fileId="21"/>
+      <Normalmap fileId="22"/>
+      <Glossmap fileId="23"/>
+    </Material>
+    <Material name="carBattery_mat" materialId="40">
+      <Texture fileId="48"/>
+      <Normalmap fileId="49"/>
+      <Glossmap fileId="50"/>
+    </Material>
+    <Material name="cardboardBoxes_mat" materialId="19">
+      <Texture fileId="27"/>
+      <Normalmap fileId="28"/>
+      <Glossmap fileId="29"/>
+    </Material>
+    <Material name="Decals_mat" materialId="272">
+      <Texture fileId="87"/>
+      <Normalmap fileId="88"/>
+      <Glossmap fileId="77"/>
+    </Material>
+    <Material name="Decals_mat" materialId="37">
+      <Texture fileId="89"/>
+      <Normalmap fileId="90"/>
+      <Glossmap fileId="92"/>
+    </Material>
+    <Material name="default" materialId="43">
+      <Texture fileId="30"/>
+      <Glossmap fileId="32"/>
+    </Material>
+    <Material name="default" materialId="33">
+      <Texture fileId="30"/>
+      <Normalmap fileId="31"/>
+      <Glossmap fileId="32"/>
+    </Material>
+    <Material name="EDGE_decals_mat" materialId="39">
+      <Texture fileId="89"/>
+      <Normalmap fileId="90"/>
+      <Glossmap fileId="91"/>
+    </Material>
+    <Material name="EDGE_Emissive_mat" materialId="18" customShaderId="102">
+      <Texture fileId="104"/>
+      <Normalmap fileId="105"/>
+      <Glossmap fileId="92"/>
+      <Custommap name="mEmissiveMap" fileId="104"/>
+      <CustomParameter name="lightControl" value="0.8 0.5 0.3 1"/>
+    </Material>
+    <Material name="EDGE_Foundation_mat" materialId="273">
       <Texture fileId="75"/>
-      <Normalmap fileId="67"/>
-      <Glossmap fileId="68"/>
+      <Normalmap fileId="76" bumpDepth="2"/>
+      <Glossmap fileId="77"/>
     </Material>
-    <Material name="buyingStation" materialId="5" diffuseColor="0.494118 0.494118 0.494118 1">
+    <Material name="EDGE_Plate_mat" materialId="274">
+      <Texture fileId="75"/>
+      <Normalmap fileId="76"/>
+      <Glossmap fileId="77"/>
     </Material>
-    <Material name="pliers_mat" materialId="10">
-      <Texture fileId="43"/>
-      <Normalmap fileId="44"/>
-      <Glossmap fileId="45"/>
+    <Material name="extensionCordGreen_mat" materialId="10">
+      <Texture fileId="74"/>
+      <Normalmap fileId="66"/>
+      <Glossmap fileId="67"/>
     </Material>
-    <Material name="buyingStation" materialId="21">
-      <Texture fileId="10"/>
-      <Normalmap fileId="11"/>
-      <Glossmap fileId="12"/>
+    <Material name="extensionCords_mat" materialId="4">
+      <Texture fileId="65"/>
+      <Normalmap fileId="66"/>
+      <Glossmap fileId="67"/>
     </Material>
-    <Material name="barrels_mat" materialId="19">
-      <Texture fileId="19"/>
-      <Normalmap fileId="20"/>
-      <Glossmap fileId="21"/>
+    <Material name="extensionCordWhite_mat" materialId="34">
+      <Texture fileId="73"/>
+      <Normalmap fileId="66"/>
+      <Glossmap fileId="67"/>
     </Material>
-    <Material name="switchLight_mat" materialId="20">
+    <Material name="fertilizerTank_mat" materialId="17">
+      <Texture fileId="12"/>
+      <Normalmap fileId="13"/>
+      <Glossmap fileId="14"/>
+    </Material>
+    <Material name="floodlightFixture_mat" materialId="29">
+      <Texture fileId="96"/>
+      <Normalmap fileId="97"/>
+      <Glossmap fileId="98"/>
+    </Material>
+    <Material name="floodLightGlass_mat" materialId="21" alphaBlending="true" customShaderId="102">
+      <Texture fileId="99"/>
+      <Normalmap fileId="100"/>
+      <Glossmap fileId="101"/>
+      <Custommap name="mEmissiveMap" fileId="103"/>
+      <CustomParameter name="lightControl" value="1 1 1 1"/>
+    </Material>
+    <Material name="gardenHoseReel_mat" materialId="6">
+      <Texture fileId="70"/>
+      <Normalmap fileId="71"/>
+      <Glossmap fileId="72"/>
+    </Material>
+    <Material name="hammers_mat" materialId="25">
+      <Texture fileId="39"/>
+      <Normalmap fileId="40"/>
+      <Glossmap fileId="41"/>
+    </Material>
+    <Material name="jdOil_mat" materialId="8">
+      <Texture fileId="24"/>
+      <Normalmap fileId="25"/>
+      <Glossmap fileId="26"/>
+    </Material>
+    <Material name="oilCan_mat" materialId="5">
+      <Texture fileId="51"/>
+      <Normalmap fileId="52"/>
+      <Glossmap fileId="53"/>
+    </Material>
+    <Material name="oiler_mat" materialId="20">
+      <Texture fileId="33"/>
+      <Normalmap fileId="34"/>
+      <Glossmap fileId="35"/>
+    </Material>
+    <Material name="pliers_mat" materialId="12">
+      <Texture fileId="42"/>
+      <Normalmap fileId="43"/>
+      <Glossmap fileId="44"/>
+    </Material>
+    <Material name="powerPlugs_mat" materialId="7">
+      <Texture fileId="68"/>
+      <Glossmap fileId="69"/>
+    </Material>
+    <Material name="radio_mat" materialId="35">
+      <Texture fileId="54"/>
+      <Normalmap fileId="55"/>
+      <Glossmap fileId="56"/>
+    </Material>
+    <Material name="sign_mat" materialId="44">
+      <Texture fileId="93"/>
+      <Normalmap fileId="94"/>
+      <Glossmap fileId="95"/>
+    </Material>
+    <Material name="spannerSet_mat" materialId="28">
+      <Texture fileId="45"/>
+      <Normalmap fileId="46"/>
+      <Glossmap fileId="47"/>
+    </Material>
+    <Material name="switch_mat" materialId="275">
+      <Texture fileId="2"/>
+      <Normalmap fileId="3"/>
+      <Glossmap fileId="4"/>
+    </Material>
+    <Material name="switchLight_mat" materialId="276">
       <Texture fileId="2"/>
       <Normalmap fileId="3" bumpDepth="2"/>
       <Glossmap fileId="4"/>
     </Material>
-    <Material name="barrelPlasticBlue_mat" materialId="15">
-      <Texture fileId="16"/>
-      <Normalmap fileId="17"/>
-      <Glossmap fileId="18"/>
-    </Material>
-    <Material name="fertilizerTank_mat" materialId="16">
-      <Texture fileId="13"/>
-      <Normalmap fileId="14"/>
-      <Glossmap fileId="15"/>
-    </Material>
-    <Material name="EDGE_Emissive_mat" materialId="17" customShaderId="100">
-      <Texture fileId="76"/>
-      <Normalmap fileId="77"/>
-      <Glossmap fileId="78"/>
-      <Custommap name="mEmissiveMap" fileId="76"/>
-      <CustomParameter name="lightControl" value="0.8 0.5 0.3 1"/>
-    </Material>
-    <Material name="cardboardBoxes_mat" materialId="22">
-      <Texture fileId="28"/>
-      <Normalmap fileId="29"/>
-      <Glossmap fileId="30"/>
-    </Material>
-    <Material name="oiler_mat" materialId="7">
-      <Texture fileId="34"/>
-      <Normalmap fileId="35"/>
-      <Glossmap fileId="36"/>
-    </Material>
-    <Material name="floodLightGlass_mat" materialId="4" alphaBlending="true" customShaderId="100">
-      <Texture fileId="97"/>
-      <Normalmap fileId="98"/>
-      <Glossmap fileId="99"/>
-      <Custommap name="mEmissiveMap" fileId="101"/>
-      <CustomParameter name="lightControl" value="1 1 1 1"/>
-    </Material>
-    <Material name="waterBarrelRack_mat" materialId="11">
-      <Texture fileId="63"/>
-      <Normalmap fileId="64"/>
-      <Glossmap fileId="65"/>
-    </Material>
-    <Material name="building_mat" materialId="6" customShaderId="79">
-      <Texture fileId="85"/>
-      <Normalmap fileId="86"/>
-      <Glossmap fileId="87"/>
-    </Material>
-    <Material name="EDGE_Foundation_mat" materialId="28" customShaderId="79">
-      <Texture fileId="76"/>
-      <Normalmap fileId="77" bumpDepth="2"/>
-      <Glossmap fileId="78"/>
-    </Material>
-    <Material name="hammers_mat" materialId="31">
-      <Texture fileId="40"/>
-      <Normalmap fileId="41"/>
-      <Glossmap fileId="42"/>
-    </Material>
-    <Material name="switchLighton_mat" materialId="24" diffuseColor="1 1 1 1" customShaderId="6" customShaderVariation="staticLight">
+    <Material name="switchLightauto_mat" materialId="277" customShaderId="5" customShaderVariation="staticLight">
+      <Texture fileId="2"/>
       <Normalmap fileId="3"/>
       <Glossmap fileId="4"/>
-      <Emissivemap fileId="2"/>
-      <CustomParameter name="RDT" value="1 1 0 0"/>
-      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
-      <CustomParameter name="colorMat0" value="0.8 0.55 0.05 1"/>
-      <CustomParameter name="colorMat1" value="1 0.1 0.1 1"/>
-      <CustomParameter name="colorMat2" value="0.1 1 0.1 1"/>
-      <CustomParameter name="colorMat3" value="0.1 0.1 1 1"/>
-      <CustomParameter name="colorMat4" value="1 1 0.1 1"/>
-      <CustomParameter name="colorMat5" value="0.05 0.05 0.05 1"/>
-      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
-      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
-      <CustomParameter name="lightControl" value="0.5 0.8 1 0"/>
-      <CustomParameter name="blinkOffset" value="0 0 1 0"/>
-    </Material>
-    <Material name="switchLightauto_mat" materialId="30" diffuseColor="1 1 1 1" customShaderId="6" customShaderVariation="staticLight">
-      <Normalmap fileId="3"/>
-      <Glossmap fileId="4"/>
-      <Emissivemap fileId="2"/>
       <CustomParameter name="RDT" value="1 1 0 0"/>
       <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
       <CustomParameter name="colorMat0" value="0.8 0.55 0.05 1"/>
@@ -248,20 +305,10 @@
       <CustomParameter name="lightControl" value="0.5 0.9 1 0"/>
       <CustomParameter name="blinkOffset" value="0 0 1 0"/>
     </Material>
-    <Material name="spannerSet_mat" materialId="41">
-      <Texture fileId="46"/>
-      <Normalmap fileId="47"/>
-      <Glossmap fileId="48"/>
-    </Material>
-    <Material name="floodlightFixture_mat" materialId="39">
-      <Texture fileId="94"/>
-      <Normalmap fileId="95"/>
-      <Glossmap fileId="96"/>
-    </Material>
-    <Material name="switchLightoff_mat" materialId="40" diffuseColor="1 1 1 1" customShaderId="6" customShaderVariation="staticLight">
+    <Material name="switchLightoff_mat" materialId="278" customShaderId="5" customShaderVariation="staticLight">
+      <Texture fileId="2"/>
       <Normalmap fileId="3"/>
       <Glossmap fileId="4"/>
-      <Emissivemap fileId="2"/>
       <CustomParameter name="RDT" value="1 1 0 0"/>
       <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
       <CustomParameter name="colorMat0" value="0.8 0.55 0.05 1"/>
@@ -275,74 +322,37 @@
       <CustomParameter name="lightControl" value="0.5 1 0 0"/>
       <CustomParameter name="blinkOffset" value="0 0 1 0"/>
     </Material>
-    <Material name="switch_mat" materialId="25">
+    <Material name="switchLighton_mat" materialId="279" customShaderId="5" customShaderVariation="staticLight">
       <Texture fileId="2"/>
       <Normalmap fileId="3"/>
       <Glossmap fileId="4"/>
+      <CustomParameter name="RDT" value="1 1 0 0"/>
+      <CustomParameter name="dirtColor" value="0.2 0.14 0.08 0"/>
+      <CustomParameter name="colorMat0" value="0.8 0.55 0.05 1"/>
+      <CustomParameter name="colorMat1" value="1 0.1 0.1 1"/>
+      <CustomParameter name="colorMat2" value="0.1 1 0.1 1"/>
+      <CustomParameter name="colorMat3" value="0.1 0.1 1 1"/>
+      <CustomParameter name="colorMat4" value="1 1 0.1 1"/>
+      <CustomParameter name="colorMat5" value="0.05 0.05 0.05 1"/>
+      <CustomParameter name="colorMat6" value="1 0.1 1 1"/>
+      <CustomParameter name="colorMat7" value="0.1 1 1 1"/>
+      <CustomParameter name="lightControl" value="0.5 0.8 1 0"/>
+      <CustomParameter name="blinkOffset" value="0 0 1 0"/>
     </Material>
-    <Material name="EDGE_Plate_mat" materialId="37" customShaderId="79">
-      <Texture fileId="76"/>
-      <Normalmap fileId="77"/>
-      <Glossmap fileId="78"/>
+    <Material name="warningStripes_mat" materialId="42">
+      <Texture fileId="106"/>
+      <Normalmap fileId="107"/>
+      <Glossmap fileId="108"/>
     </Material>
-    <Material name="default" materialId="34">
-      <Texture fileId="31"/>
-      <Normalmap fileId="32"/>
-      <Glossmap fileId="33"/>
+    <Material name="waterBarrelRack_mat" materialId="22">
+      <Texture fileId="62"/>
+      <Normalmap fileId="63"/>
+      <Glossmap fileId="64"/>
     </Material>
-    <Material name="extensionCordWhite_mat" materialId="38">
-      <Texture fileId="74"/>
-      <Normalmap fileId="67"/>
-      <Glossmap fileId="68"/>
-    </Material>
-    <Material name="radio_mat" materialId="42">
-      <Texture fileId="55"/>
-      <Normalmap fileId="56"/>
-      <Glossmap fileId="57"/>
-    </Material>
-    <Material name="book_mat" materialId="44">
-      <Texture fileId="58"/>
-      <Normalmap fileId="32"/>
-      <Glossmap fileId="59"/>
-    </Material>
-    <Material name="Decals_mat" materialId="27">
-      <Texture fileId="88"/>
-      <Normalmap fileId="89"/>
-      <Glossmap fileId="78"/>
-    </Material>
-    <Material name="burner_mat" materialId="26">
-      <Texture fileId="37"/>
-      <Normalmap fileId="38"/>
-      <Glossmap fileId="39"/>
-    </Material>
-    <Material name="EDGE_decals_mat" materialId="33">
-      <Texture fileId="88"/>
-      <Normalmap fileId="89"/>
-      <Glossmap fileId="90"/>
-    </Material>
-    <Material name="carBattery_mat" materialId="29">
-      <Texture fileId="49"/>
-      <Normalmap fileId="50"/>
-      <Glossmap fileId="51"/>
-    </Material>
-    <Material name="cabinetWorkbench_mat" materialId="35">
-      <Texture fileId="22"/>
-      <Normalmap fileId="23"/>
-      <Glossmap fileId="24"/>
-    </Material>
-    <Material name="warningStripes_mat" materialId="36">
-      <Texture fileId="102"/>
-      <Normalmap fileId="103"/>
-      <Glossmap fileId="104"/>
-    </Material>
-    <Material name="default" materialId="32">
-      <Texture fileId="31"/>
-      <Glossmap fileId="33"/>
-    </Material>
-    <Material name="sign_mat" materialId="43">
-      <Texture fileId="91"/>
-      <Normalmap fileId="92"/>
-      <Glossmap fileId="93"/>
+    <Material name="WaterWellCaps_mat" materialId="9">
+      <Texture fileId="59"/>
+      <Normalmap fileId="60"/>
+      <Glossmap fileId="61"/>
     </Material>
   </Materials>
 
@@ -360,53 +370,53 @@
         <TransformGroup name="OUT" nodeId="118">
           <TransformGroup name="loadingStation" nodeId="119">
             <TransformGroup name="loadingTriggers" nodeId="120">
-              <Shape shapeId="1" name="loadingTrigger" translation="0 -0.191 2.594" static="true" trigger="true" collisionMask="1088421888" nodeId="121" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
+              <Shape shapeId="1" name="loadingTrigger" translation="0 -0.191 2.594" static="true" trigger="true" collisionMask="1088421888" nodeId="121" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
               <TransformGroup name="dischargeEffect" translation="0 5.40493 0" nodeId="122">
-                <Shape shapeId="2" name="pipeEffectSmoke" translation="0 -6.18552 2.50694" visibility="false" clipDistance="100" nodeId="123" materialIds="5" castsShadows="true" receiveShadows="true"/>
+                <Shape shapeId="2" name="pipeEffectSmoke" translation="0 -6.18552 2.50694" visibility="false" clipDistance="100" nodeId="123" materialIds="11" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </TransformGroup>
           </TransformGroup>
         </TransformGroup>
         <TransformGroup name="storageFarm" nodeId="124"/>
         <TransformGroup name="mapPosition" translation="5.5 0 0" nodeId="125"/>
-        <TransformGroup name="switch_01" translation="0.3 1.05 -0.65" rotation="-90 -0 90" visibility="false" nodeId="126">
-          <Shape shapeId="3" name="playerTrigger" translation="-4.06422e-08 -0.575 -0.099564" rotation="-1.98073e-05 0 -90" scale="0.8 0.8 0.5" visibility="false" static="true" trigger="true" clipDistance="25" nodeId="127" materialIds="5" nonRenderable="true"/>
-          <Shape shapeId="4" name="lightswitch01" rotation="-4.86262e-13 0 1.00179e-05" clipDistance="25" nodeId="128" materialIds="25" castsShadows="true" receiveShadows="true">
-            <Shape shapeId="5" name="lever" translation="0.0692054 0 0" nodeId="129" materialIds="25" castsShadows="true" receiveShadows="true"/>
-            <Shape shapeId="6" name="onButton" translation="0.0532408 0.0469999 0" rotation="1.00179e-05 90 0" scale="0.909091 1 1.1" clipDistance="100" nodeId="130" materialIds="20" castsShadows="true" receiveShadows="true">
-              <TransformGroup name="illum" translation="-8.58307e-06 1.19209e-07 0" rotation="0 -90 0" scale="0.909091 1 1.1" visibility="false" nodeId="131">
-                <Light name="spotLight" translation="0.005 0 7.57166e-11" rotation="0 -90 0" clipDistance="300" nodeId="132" type="spot" color="0 1 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
-                <Shape shapeId="7" name="on_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="133" materialIds="24" castsShadows="true" receiveShadows="true"/>
+        <TransformGroup name="switch_01" translation="0.3 1.05 -0.65" rotation="-90 -0 90" visibility="false" nodeId="312">
+          <Shape shapeId="3" name="playerTrigger" translation="-4.06422e-08 -0.575 -0.099564" rotation="-1.98073e-05 0 -90" scale="0.8 0.8 0.5" visibility="false" static="true" trigger="true" clipDistance="25" nodeId="313" materialIds="11" nonRenderable="true"/>
+          <Shape shapeId="4" name="lightswitch01" rotation="-4.86262e-13 0 1.00179e-05" clipDistance="25" nodeId="314" materialIds="275" castsShadows="true" receiveShadows="true">
+            <Shape shapeId="5" name="lever" translation="0.0692054 0 0" nodeId="315" materialIds="275" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="6" name="onButton" translation="0.0532408 0.0469999 0" rotation="1.00179e-05 90 0" scale="0.909091 1 1.1" clipDistance="100" nodeId="316" materialIds="276" castsShadows="true" receiveShadows="true">
+              <TransformGroup name="illum" translation="-8.58307e-06 1.19209e-07 0" rotation="0 -90 0" scale="0.909091 1 1.1" visibility="false" nodeId="317">
+                <Light name="spotLight" translation="0.005 0 7.57166e-11" rotation="0 -90 0" clipDistance="300" nodeId="318" type="spot" color="0 1 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
+                <Shape shapeId="7" name="on_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="319" materialIds="279" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </Shape>
-            <Shape shapeId="8" name="autoButton" translation="0.053 -0.0399998 0.042" rotation="1.00179e-05 90 0" scale="0.909091 1 1.1" clipDistance="100" nodeId="134" materialIds="20" castsShadows="true" receiveShadows="true">
-              <TransformGroup name="illum" translation="1.90735e-06 -1.19209e-07 0" rotation="1.00179e-05 -90 0" scale="0.909091 1 1.1" visibility="false" nodeId="135">
-                <Light name="spotLight" translation="0.005 0 7.57166e-11" rotation="0 -90 0" clipDistance="300" nodeId="136" type="spot" color="0 0 1" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
-                <Shape shapeId="9" name="auto_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="137" materialIds="30" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="8" name="autoButton" translation="0.053 -0.0399998 0.042" rotation="1.00179e-05 90 0" scale="0.909091 1 1.1" clipDistance="100" nodeId="320" materialIds="276" castsShadows="true" receiveShadows="true">
+              <TransformGroup name="illum" translation="1.90735e-06 -1.19209e-07 0" rotation="1.00179e-05 -90 0" scale="0.909091 1 1.1" visibility="false" nodeId="321">
+                <Light name="spotLight" translation="0.005 0 7.57166e-11" rotation="0 -90 0" clipDistance="300" nodeId="322" type="spot" color="0 0 1" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
+                <Shape shapeId="9" name="auto_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="323" materialIds="277" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </Shape>
-            <Shape shapeId="10" name="offButton" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="138" materialIds="20" castsShadows="true" receiveShadows="true">
-              <TransformGroup name="illum" rotation="1.00179e-05 -90 0" nodeId="139">
-                <Light name="spotLight" translation="-0.00544583 -0.0392264 -0.0370629" rotation="0 -90 0" clipDistance="300" nodeId="140" type="spot" color="1 0.03 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
-                <Shape shapeId="11" name="off_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="141" materialIds="40" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="10" name="offButton" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="324" materialIds="276" castsShadows="true" receiveShadows="true">
+              <TransformGroup name="illum" rotation="1.00179e-05 -90 0" nodeId="325">
+                <Light name="spotLight" translation="-0.00544583 -0.0392264 -0.0370629" rotation="0 -90 0" clipDistance="300" nodeId="326" type="spot" color="1 0.03 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
+                <Shape shapeId="11" name="off_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="327" materialIds="278" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </Shape>
           </Shape>
         </TransformGroup>
-        <TransformGroup name="switch_02" translation="-0.3 1.05 -0.65" rotation="-90 -0 90" nodeId="142">
-          <Shape shapeId="12" name="playerTrigger" translation="2.23224e-09 -0.575254 0.1" rotation="-6.14696e-06 0 -90" scale="0.8 0.8 0.5" visibility="false" static="true" trigger="true" clipDistance="25" nodeId="143" materialIds="5" nonRenderable="true"/>
-          <Shape shapeId="13" name="lightswitch" rotation="-4.86262e-13 0 1.00179e-05" clipDistance="25" nodeId="144" materialIds="25" castsShadows="true" receiveShadows="true">
-            <Shape shapeId="14" name="lever" translation="0.0692054 0 0" nodeId="145" materialIds="25" castsShadows="true" receiveShadows="true"/>
-            <Shape shapeId="15" name="onButton" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="146" materialIds="20" castsShadows="true" receiveShadows="true">
-              <TransformGroup name="illum" rotation="1.00179e-05 -90 0" visibility="false" nodeId="147">
-                <Light name="spotLight" translation="0 0.0456008 0" rotation="0 -90 0" clipDistance="300" nodeId="148" type="spot" color="0 1 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
-                <Shape shapeId="16" name="on_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="149" materialIds="24" castsShadows="true" receiveShadows="true"/>
+        <TransformGroup name="switch_02" translation="-0.3 1.05 -0.65" rotation="-90 -0 90" nodeId="300">
+          <Shape shapeId="12" name="playerTrigger" translation="2.23224e-09 -0.575254 0.1" rotation="-6.14696e-06 0 -90" scale="0.8 0.8 0.5" visibility="false" static="true" trigger="true" clipDistance="25" nodeId="301" materialIds="11" nonRenderable="true"/>
+          <Shape shapeId="13" name="lightswitch" rotation="-4.86262e-13 0 1.00179e-05" clipDistance="25" nodeId="302" materialIds="275" castsShadows="true" receiveShadows="true">
+            <Shape shapeId="14" name="lever" translation="0.0692054 0 0" nodeId="303" materialIds="275" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="15" name="onButton" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="304" materialIds="276" castsShadows="true" receiveShadows="true">
+              <TransformGroup name="illum" rotation="1.00179e-05 -90 0" visibility="false" nodeId="305">
+                <Light name="spotLight" translation="0 0.0456008 0" rotation="0 -90 0" clipDistance="300" nodeId="306" type="spot" color="0 1 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
+                <Shape shapeId="16" name="on_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="307" materialIds="279" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </Shape>
-            <Shape shapeId="10" name="offButton" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="150" materialIds="20" castsShadows="true" receiveShadows="true">
-              <TransformGroup name="illum" rotation="1.00179e-05 -90 0" visibility="false" nodeId="151">
-                <Light name="spotLight" translation="-0.00544583 -0.0392264 -0.0370629" rotation="0 -90 0" clipDistance="300" nodeId="152" type="spot" color="1 0.03 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
-                <Shape shapeId="11" name="off_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="153" materialIds="40" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="10" name="offButton" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="308" materialIds="276" castsShadows="true" receiveShadows="true">
+              <TransformGroup name="illum" rotation="1.00179e-05 -90 0" visibility="false" nodeId="309">
+                <Light name="spotLight" translation="-0.00544583 -0.0392264 -0.0370629" rotation="0 -90 0" clipDistance="300" nodeId="310" type="spot" color="1 0.03 0" emitDiffuse="true" emitSpecular="true" decayRate="1" range="0.1" coneAngle="60" dropOff="5"/>
+                <Shape shapeId="11" name="off_illum" rotation="1.00179e-05 90 0" clipDistance="100" nodeId="311" materialIds="278" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </Shape>
           </Shape>
@@ -415,120 +425,120 @@
       <TransformGroup name="buyingStation_vis" nodeId="154">
         <TransformGroup name="tanks" translation="2.48973 0 -1.24281" nodeId="155">
           <TransformGroup name="slurryTanks1" translation="-4.28054 0.194797 0.723377" nodeId="156">
-            <Shape shapeId="17" name="slurryTank" static="true" collisionMask="25178120" density="0.07" clipDistance="300" nodeId="157" materialIds="21" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="17" name="slurryTank" static="true" collisionMask="25178120" density="0.07" clipDistance="300" nodeId="157" materialIds="13" castsShadows="true" receiveShadows="true" nonRenderable="true">
               <TransformGroup name="visible" nodeId="158">
-                <Shape shapeId="18" name="fertilizerTank_vis" translation="0 8.88178e-18 0" clipDistance="300" nodeId="159" materialIds="16" castsShadows="true" receiveShadows="true"/>
+                <Shape shapeId="18" name="fertilizerTank_vis" translation="0 8.88178e-18 0" clipDistance="300" nodeId="159" materialIds="17" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </Shape>
-            <Shape shapeId="19" name="barrelPlasticBlue" translation="-0.0861022 0.00536756 1.14854" rotation="180 69.035 -180" static="true" density="0.6" clipDistance="88" nodeId="160" materialIds="21" castsShadows="true" receiveShadows="true" nonRenderable="true">
-              <Shape shapeId="20" name="barrelPlasticBlue_vis" clipDistance="88" nodeId="161" materialIds="15" castsShadows="true" receiveShadows="true"/>
-              <Shape shapeId="19" name="fillPlane" scale="0.95 0.9 0.95" clipDistance="88" nodeId="162" materialIds="21" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="19" name="barrelPlasticBlue" translation="-0.0861022 0.00536756 1.14854" rotation="180 69.035 -180" static="true" density="0.6" clipDistance="88" nodeId="160" materialIds="13" castsShadows="true" receiveShadows="true" nonRenderable="true">
+              <Shape shapeId="20" name="barrelPlasticBlue_vis" clipDistance="88" nodeId="161" materialIds="16" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="19" name="fillPlane" scale="0.95 0.9 0.95" clipDistance="88" nodeId="162" materialIds="13" castsShadows="true" receiveShadows="true"/>
             </Shape>
-            <Shape shapeId="21" name="barrelMetal03" translation="3.85505 0.00536661 -0.316279" static="true" clipDistance="77" nodeId="163" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-              <Shape shapeId="22" name="barrelMetal03_vis" clipDistance="77" nodeId="164" materialIds="19" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="21" name="barrelMetal03" translation="3.85505 0.00536661 -0.316279" static="true" clipDistance="77" nodeId="163" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+              <Shape shapeId="22" name="barrelMetal03_vis" clipDistance="77" nodeId="164" materialIds="14" castsShadows="true" receiveShadows="true"/>
             </Shape>
-            <Shape shapeId="21" name="barrelMetal03" translation="3.85505 0.00536661 0.342075" static="true" clipDistance="77" nodeId="165" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-              <Shape shapeId="22" name="barrelMetal03_vis" clipDistance="77" nodeId="166" materialIds="19" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="21" name="barrelMetal03" translation="3.85505 0.00536661 0.342075" static="true" clipDistance="77" nodeId="165" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+              <Shape shapeId="22" name="barrelMetal03_vis" clipDistance="77" nodeId="166" materialIds="14" castsShadows="true" receiveShadows="true"/>
             </Shape>
-            <Shape shapeId="21" name="barrelMetal03" translation="3.33539 0.00536661 0.0245807" static="true" clipDistance="77" nodeId="167" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-              <Shape shapeId="22" name="barrelMetal03_vis" clipDistance="77" nodeId="168" materialIds="19" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="21" name="barrelMetal03" translation="3.33539 0.00536661 0.0245807" static="true" clipDistance="77" nodeId="167" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+              <Shape shapeId="22" name="barrelMetal03_vis" clipDistance="77" nodeId="168" materialIds="14" castsShadows="true" receiveShadows="true"/>
             </Shape>
           </TransformGroup>
         </TransformGroup>
         <TransformGroup name="clutter00" nodeId="169">
-          <Shape shapeId="23" name="cabinetWorkbenchTableBasic" translation="0 0.207 -0.85" static="true" clipDistance="60" nodeId="170" materialIds="35" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="24" name="oil" translation="-0.505005 0.356635 -0.832759" rotation="180 -66.0318 -180" static="true" clipDistance="40" nodeId="171" materialIds="5" nonRenderable="true">
-            <Shape shapeId="25" name="oil_vis" translation="0 -0.00356363 0" clipDistance="100" nodeId="172" materialIds="23" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="23" name="cabinetWorkbenchTableBasic" translation="0 0.207 -0.85" static="true" clipDistance="60" nodeId="170" materialIds="41" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="24" name="oil" translation="-0.505005 0.356635 -0.832759" rotation="180 -66.0318 -180" static="true" clipDistance="40" nodeId="171" materialIds="11" nonRenderable="true">
+            <Shape shapeId="25" name="oil_vis" translation="0 -0.00356363 0" clipDistance="100" nodeId="172" materialIds="8" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="26" name="cardboardBox09" translation="-0.03027 0.356597 -0.88071" rotation="180 -79.7385 -180" static="true" density="1.5" clipDistance="35" nodeId="173" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="174" materialIds="22" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="26" name="cardboardBox09" translation="-0.03027 0.356597 -0.88071" rotation="180 -79.7385 -180" static="true" density="1.5" clipDistance="35" nodeId="173" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="174" materialIds="19" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="26" name="cardboardBox09" translation="0.26282 0.356597 -0.82767" rotation="180 74.7613 180" static="true" density="1.5" clipDistance="35" nodeId="175" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="176" materialIds="22" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="26" name="cardboardBox09" translation="0.26282 0.356597 -0.82767" rotation="180 74.7613 180" static="true" density="1.5" clipDistance="35" nodeId="175" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="176" materialIds="19" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="28" name="nails" translation="-0.821167 1.06249 -0.720935" rotation="1.02284e-05 -16.3289 -1.46746e-06" clipDistance="20" nodeId="177" materialIds="34" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="28" name="nails" translation="-0.503009 1.06249 -0.564927" rotation="0 49.1055 0" clipDistance="20" nodeId="178" materialIds="34" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="29" name="oiler" translation="-0.364869 0.90525 -1.18505" rotation="6.44519e-08 55.4569 1.33767e-06" clipDistance="30" nodeId="179" materialIds="7" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="30" name="burner_vis" translation="0.09601 1.05754 -1.12494" rotation="-180 -51.2865 180" clipDistance="30" nodeId="180" materialIds="26" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="31" name="hammer03_vis" translation="-0.657533 1.0834 -0.611187" rotation="177.03 -44.9952 -175.811" clipDistance="30" nodeId="181" materialIds="31" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="32" name="adjustableWrench_vis" translation="-0.203387 1.05754 -0.962342" rotation="1.26321e-05 -48.9233 -5.74659e-06" clipDistance="30" nodeId="182" materialIds="10" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="33" name="spannerOpen_vis" translation="0.549389 1.05754 -0.668088" rotation="0 -0.381422 0" clipDistance="30" nodeId="183" materialIds="41" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="34" name="spannerRing_vis" translation="0.322 1.05754 -0.813075" rotation="0 43.6692 0" clipDistance="30" nodeId="184" materialIds="41" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="35" name="hammer02_vis" translation="0.555836 1.0998 -0.882602" rotation="4.79789 2.73361 -1.09314" clipDistance="30" nodeId="185" materialIds="31" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="36" name="carBattery" translation="-0.696596 1.05723 -1.06738" rotation="5.87755e-06 19.9996 5.55287e-05" scale="1.1 1.1 1.1" clipDistance="30" nodeId="186" materialIds="29" castsShadows="true" receiveShadows="true">
-            <Shape shapeId="37" name="col" visibility="false" static="true" nodeId="187" materialIds="5" nonRenderable="true"/>
+          <Shape shapeId="28" name="nails" translation="-0.821167 1.06249 -0.720935" rotation="1.02284e-05 -16.3289 -1.46746e-06" clipDistance="20" nodeId="177" materialIds="33" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="28" name="nails" translation="-0.503009 1.06249 -0.564927" rotation="0 49.1055 0" clipDistance="20" nodeId="178" materialIds="33" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="29" name="oiler" translation="-0.364869 0.90525 -1.18505" rotation="6.44519e-08 55.4569 1.33767e-06" clipDistance="30" nodeId="179" materialIds="20" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="30" name="burner_vis" translation="0.09601 1.05754 -1.12494" rotation="-180 -51.2865 180" clipDistance="30" nodeId="180" materialIds="38" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="31" name="hammer03_vis" translation="-0.657533 1.0834 -0.611187" rotation="177.03 -44.9952 -175.811" clipDistance="30" nodeId="181" materialIds="25" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="32" name="adjustableWrench_vis" translation="-0.203387 1.05754 -0.962342" rotation="1.26321e-05 -48.9233 -5.74659e-06" clipDistance="30" nodeId="182" materialIds="12" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="33" name="spannerOpen_vis" translation="0.549389 1.05754 -0.668088" rotation="0 -0.381422 0" clipDistance="30" nodeId="183" materialIds="28" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="34" name="spannerRing_vis" translation="0.322 1.05754 -0.813075" rotation="0 43.6692 0" clipDistance="30" nodeId="184" materialIds="28" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="35" name="hammer02_vis" translation="0.555836 1.0998 -0.882602" rotation="4.79789 2.73361 -1.09314" clipDistance="30" nodeId="185" materialIds="25" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="36" name="carBattery" translation="-0.696596 1.05723 -1.06738" rotation="5.87755e-06 19.9996 5.55287e-05" scale="1.1 1.1 1.1" clipDistance="30" nodeId="186" materialIds="40" castsShadows="true" receiveShadows="true">
+            <Shape shapeId="37" name="col" visibility="false" static="true" nodeId="187" materialIds="11" nonRenderable="true"/>
           </Shape>
-          <Shape shapeId="38" name="oilCanSmall" translation="1.33893 0.200152 -0.873299" rotation="2.80315e-05 12.924 0" clipDistance="30" nodeId="188" materialIds="12" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="39" name="radio" translation="2.05333 1.10649 -0.123705" rotation="180 -51.2401 -180" static="true" density="3" clipDistance="40" nodeId="189" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="40" name="radio_vis" clipDistance="77" nodeId="190" materialIds="42" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="38" name="oilCanSmall" translation="1.33893 0.200152 -0.873299" rotation="2.80315e-05 12.924 0" clipDistance="30" nodeId="188" materialIds="5" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="39" name="radio" translation="2.05333 1.10649 -0.123705" rotation="180 -51.2401 -180" static="true" density="3" clipDistance="40" nodeId="189" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="40" name="radio_vis" clipDistance="77" nodeId="190" materialIds="35" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="41" name="seedBook" translation="1.50724 1.12063 -0.403086" rotation="0 -8.62229 0" clipDistance="150" nodeId="191" materialIds="44" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="38" name="oilCanSmall" translation="1.62591 0.200158 -0.0887172" rotation="2.80315e-05 12.924 0" clipDistance="30" nodeId="192" materialIds="12" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="38" name="oilCanSmall" translation="1.87257 0.200161 0.34015" rotation="2.80315e-05 12.924 0" clipDistance="30" nodeId="193" materialIds="12" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="38" name="oilCanSmall" translation="2.0906 0.200161 0.314275" rotation="2.80315e-05 345.864 0" clipDistance="30" nodeId="194" materialIds="12" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="38" name="oilCanSmall" translation="1.86452 0.20016 0.172664" rotation="2.80315e-05 190.293 0" clipDistance="30" nodeId="195" materialIds="12" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="36" name="carBattery" translation="-1.44375 1.6971 -0.814284" rotation="5.87755e-06 19.9996 5.55287e-05" scale="1.1 1.1 1.1" clipDistance="30" nodeId="196" materialIds="29" castsShadows="true" receiveShadows="true">
-            <Shape shapeId="37" name="col" visibility="false" static="true" nodeId="197" materialIds="5" nonRenderable="true"/>
+          <Shape shapeId="41" name="seedBook" translation="1.50724 1.12063 -0.403086" rotation="0 -8.62229 0" clipDistance="150" nodeId="191" materialIds="36" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="38" name="oilCanSmall" translation="1.62591 0.200158 -0.0887172" rotation="2.80315e-05 12.924 0" clipDistance="30" nodeId="192" materialIds="5" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="38" name="oilCanSmall" translation="1.87257 0.200161 0.34015" rotation="2.80315e-05 12.924 0" clipDistance="30" nodeId="193" materialIds="5" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="38" name="oilCanSmall" translation="2.0906 0.200161 0.314275" rotation="2.80315e-05 345.864 0" clipDistance="30" nodeId="194" materialIds="5" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="38" name="oilCanSmall" translation="1.86452 0.20016 0.172664" rotation="2.80315e-05 190.293 0" clipDistance="30" nodeId="195" materialIds="5" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="36" name="carBattery" translation="-1.44375 1.6971 -0.814284" rotation="5.87755e-06 19.9996 5.55287e-05" scale="1.1 1.1 1.1" clipDistance="30" nodeId="196" materialIds="40" castsShadows="true" receiveShadows="true">
+            <Shape shapeId="37" name="col" visibility="false" static="true" nodeId="197" materialIds="11" nonRenderable="true"/>
           </Shape>
-          <Shape shapeId="26" name="cardboardBox09" translation="1.02544 0.200152 -0.804845" rotation="-180 -79.7385 180" static="true" density="1.5" clipDistance="35" nodeId="198" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="199" materialIds="22" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="26" name="cardboardBox09" translation="1.02544 0.200152 -0.804845" rotation="-180 -79.7385 180" static="true" density="1.5" clipDistance="35" nodeId="198" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="199" materialIds="19" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="26" name="cardboardBox09" translation="-2.10232 1.6971 -0.680987" rotation="-180 -18.3011 180" static="true" density="1.5" clipDistance="35" nodeId="200" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="201" materialIds="22" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="26" name="cardboardBox09" translation="-2.10232 1.6971 -0.680987" rotation="-180 -18.3011 180" static="true" density="1.5" clipDistance="35" nodeId="200" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="201" materialIds="19" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="26" name="cardboardBox09" translation="-1.90546 1.6971 -0.216911" rotation="-180 241.27 180" static="true" density="1.5" clipDistance="35" nodeId="202" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="203" materialIds="22" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="26" name="cardboardBox09" translation="-1.90546 1.6971 -0.216911" rotation="-180 241.27 180" static="true" density="1.5" clipDistance="35" nodeId="202" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="27" name="cardboardBox09_vis" clipDistance="150" nodeId="203" materialIds="19" castsShadows="true" receiveShadows="true"/>
           </Shape>
           <Shape shapeId="42" name="waterWellCapBlue01" translation="-1.37564 0.200163 0.538422" rotation="180 -1.417 180" clipDistance="40" nodeId="204" materialIds="9" castsShadows="true" receiveShadows="true">
-            <Shape shapeId="43" name="col" translation="-0.0382286 0 0" visibility="false" static="true" density="0.0001" nodeId="205" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
+            <Shape shapeId="43" name="col" translation="-0.0382286 0 0" visibility="false" static="true" density="0.0001" nodeId="205" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
           </Shape>
-          <Shape shapeId="44" name="waterBarrel01" translation="1.96615 0.200165 0.713541" rotation="180 88.583 180" dynamic="true" clipDistance="100" nodeId="206" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="45" name="tube_vis" clipDistance="80" nodeId="207" materialIds="11" castsShadows="true" receiveShadows="true"/>
-            <Shape shapeId="46" name="waterBarrel_vis" clipDistance="150" nodeId="208" materialIds="11" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="44" name="waterBarrel01" translation="1.96615 0.200165 0.713541" rotation="180 88.583 180" dynamic="true" clipDistance="100" nodeId="206" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="45" name="tube_vis" clipDistance="80" nodeId="207" materialIds="22" castsShadows="true" receiveShadows="true"/>
+            <Shape shapeId="46" name="waterBarrel_vis" clipDistance="150" nodeId="208" materialIds="22" castsShadows="true" receiveShadows="true"/>
           </Shape>
         </TransformGroup>
         <TransformGroup name="wallClutter00" translation="1.68029 0.916362 -1.25007" nodeId="209">
-          <Shape shapeId="47" name="nailHalf" translation="-0.000854492 0.0623093 -0.0269165" rotation="-3.43379 0 0" scale="2 2 2" clipDistance="20" nodeId="210" materialIds="32" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="48" name="extensionCordShort_vis" translation="0.000427246 -0.0311584 0.0133667" rotation="90 -0 4.602" clipDistance="150" nodeId="211" materialIds="8" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="49" name="extensionCordShort" translation="0.000427246 -0.0311584 0.0133667" rotation="90 -0 4.60163" static="true" clipDistance="40" nodeId="212" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
-          <Shape shapeId="50" name="wallSocket" translation="-0.631708 0.0772614 -0.00116026" rotation="-1.19362e-12 -0 2.73068e-05" clipDistance="40" nodeId="213" materialIds="18" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="50" name="wallSocket" translation="0.81971 -0.0316929 1.50241" rotation="-1.97615e-10 -90 1.97611e-10" clipDistance="40" nodeId="214" materialIds="18" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="47" name="nailHalf" translation="0.520685 0.157171 -0.00941491" rotation="2.28419 -5.00896e-06 -1.73028e-05" scale="2.2 2.2 3" clipDistance="20" nodeId="215" materialIds="32" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="51" name="gardenHose" translation="0.24827 0.194841 0.52721" rotation="-1.55528 -4.82863e-06 1.358" static="true" clipDistance="40" nodeId="216" materialIds="5" nonRenderable="true">
-            <Shape shapeId="52" name="gardenHose_vis" clipDistance="77" nodeId="217" materialIds="13" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="47" name="nailHalf" translation="-0.000854492 0.0623093 -0.0269165" rotation="-3.43379 0 0" scale="2 2 2" clipDistance="20" nodeId="210" materialIds="43" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="48" name="extensionCordShort_vis" translation="0.000427246 -0.0311584 0.0133667" rotation="90 -0 4.602" clipDistance="150" nodeId="211" materialIds="4" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="49" name="extensionCordShort" translation="0.000427246 -0.0311584 0.0133667" rotation="90 -0 4.60163" static="true" clipDistance="40" nodeId="212" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
+          <Shape shapeId="50" name="wallSocket" translation="-0.631708 0.0772614 -0.00116026" rotation="-1.19362e-12 -0 2.73068e-05" clipDistance="40" nodeId="213" materialIds="7" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="50" name="wallSocket" translation="0.81971 -0.0316929 1.50241" rotation="-1.97615e-10 -90 1.97611e-10" clipDistance="40" nodeId="214" materialIds="7" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="47" name="nailHalf" translation="0.520685 0.157171 -0.00941491" rotation="2.28419 -5.00896e-06 -1.73028e-05" scale="2.2 2.2 3" clipDistance="20" nodeId="215" materialIds="43" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="51" name="gardenHose" translation="0.24827 0.194841 0.52721" rotation="-1.55528 -4.82863e-06 1.358" static="true" clipDistance="40" nodeId="216" materialIds="11" nonRenderable="true">
+            <Shape shapeId="52" name="gardenHose_vis" clipDistance="77" nodeId="217" materialIds="6" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="47" name="nailHalf" translation="0.853485 0.205126 1.93845" rotation="-3.43379 -90 0" scale="2 2 2" clipDistance="20" nodeId="218" materialIds="32" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="47" name="nailHalf" translation="0.844146 -0.296721 2.02667" rotation="-6.36971 -90 0" scale="2 2 2" clipDistance="20" nodeId="219" materialIds="32" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="49" name="extensionCordWhite" translation="0.808746 -0.38539 2.02609" rotation="-2.87103e-05 -85.398 90" static="true" clipDistance="40" nodeId="220" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="48" name="extensionCordWhite_vis" clipDistance="150" nodeId="221" materialIds="38" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="47" name="nailHalf" translation="0.853485 0.205126 1.93845" rotation="-3.43379 -90 0" scale="2 2 2" clipDistance="20" nodeId="218" materialIds="43" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="47" name="nailHalf" translation="0.844146 -0.296721 2.02667" rotation="-6.36971 -90 0" scale="2 2 2" clipDistance="20" nodeId="219" materialIds="43" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="49" name="extensionCordWhite" translation="0.808746 -0.38539 2.02609" rotation="-2.87103e-05 -85.398 90" static="true" clipDistance="40" nodeId="220" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="48" name="extensionCordWhite_vis" clipDistance="150" nodeId="221" materialIds="34" castsShadows="true" receiveShadows="true"/>
           </Shape>
-          <Shape shapeId="49" name="extensionCordGreen" translation="0.808746 0.113977 1.93202" rotation="-2.87128e-05 -85.398 90" static="true" clipDistance="40" nodeId="222" materialIds="5" castsShadows="true" receiveShadows="true" nonRenderable="true">
-            <Shape shapeId="48" name="extensionCordGreen_vis" clipDistance="150" nodeId="223" materialIds="14" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="49" name="extensionCordGreen" translation="0.808746 0.113977 1.93202" rotation="-2.87128e-05 -85.398 90" static="true" clipDistance="40" nodeId="222" materialIds="11" castsShadows="true" receiveShadows="true" nonRenderable="true">
+            <Shape shapeId="48" name="extensionCordGreen_vis" clipDistance="150" nodeId="223" materialIds="10" castsShadows="true" receiveShadows="true"/>
           </Shape>
         </TransformGroup>
       </TransformGroup>
-      <Shape shapeId="53" name="EDGE_Plate" translation="0 0.011 0" static="true" restitution="0.1" staticFriction="0.05" dynamicFriction="0.05" clipDistance="500" nodeId="224" materialIds="37" castsShadows="true" receiveShadows="true">
-        <Shape shapeId="54" name="EDGE_Foundation" translation="-0.25 -2.21103 0" static="true" clipDistance="500" nodeId="225" materialIds="28" castsShadows="true" receiveShadows="true"/>
-        <Shape shapeId="55" name="walls" translation="-3.51089e-08 -1.516 -0.161" scale="1 1.07824 1" static="true" clipDistance="300" nodeId="226" materialIds="6" castsShadows="true" receiveShadows="true">
-          <Shape shapeId="56" name="deco00" translation="0 2.505 0" clipDistance="300" nodeId="227" materialIds="27" castsShadows="true" receiveShadows="true"/>
-          <Shape shapeId="57" name="deco01" translation="7.05362e-05 2.556 -1.13842" scale="1 1.00521 1" clipDistance="300" nodeId="228" materialIds="27" castsShadows="true" receiveShadows="true"/>
+      <Shape shapeId="53" name="EDGE_Plate" translation="0 0.011 0" static="true" restitution="0.1" staticFriction="0.05" dynamicFriction="0.05" clipDistance="500" nodeId="328" materialIds="274" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="54" name="EDGE_Foundation" translation="-0.25 -2.21103 0" static="true" clipDistance="500" nodeId="329" materialIds="273" castsShadows="true" receiveShadows="true"/>
+        <Shape shapeId="55" name="walls" translation="-3.51089e-08 -1.516 -0.161" scale="1 1.07824 1" static="true" clipDistance="300" nodeId="330" materialIds="271" castsShadows="true" receiveShadows="true">
+          <Shape shapeId="56" name="deco00" translation="0 2.505 0" clipDistance="300" nodeId="331" materialIds="272" castsShadows="true" receiveShadows="true"/>
+          <Shape shapeId="57" name="deco01" translation="7.05362e-05 2.556 -1.13842" scale="1 1.00521 1" clipDistance="300" nodeId="332" materialIds="272" castsShadows="true" receiveShadows="true"/>
         </Shape>
       </Shape>
       <TransformGroup name="decals" nodeId="229">
-        <Shape shapeId="58" name="sign" translation="2.54884 1.13595 1.01825" rotation="1.47769e-06 0 1.42868e-06" scale="0.3 0.3 1" clipDistance="300" nodeId="230" materialIds="33" castsShadows="true" receiveShadows="true">
-          <Shape shapeId="59" name="logo" clipDistance="300" nodeId="231" materialIds="33" castsShadows="true" receiveShadows="true"/>
+        <Shape shapeId="58" name="sign" translation="2.54884 1.13595 1.01825" rotation="1.47769e-06 0 1.42868e-06" scale="0.3 0.3 1" clipDistance="300" nodeId="230" materialIds="39" castsShadows="true" receiveShadows="true">
+          <Shape shapeId="59" name="logo" clipDistance="300" nodeId="231" materialIds="39" castsShadows="true" receiveShadows="true"/>
         </Shape>
-        <Shape shapeId="60" name="banner" translation="-2.28897 0.1 1.24931" rotation="-180 -0 -180" clipDistance="300" nodeId="232" materialIds="33" castsShadows="true" receiveShadows="true"/>
-        <Shape shapeId="61" name="signBack" translation="0 1.42 -1.269" rotation="-1.5 0 0" static="true" clipDistance="300" nodeId="233" materialIds="27" castsShadows="true" receiveShadows="true">
-          <Shape shapeId="62" name="signSeed" translation="0 0 0.01036" clipDistance="300" nodeId="234" materialIds="43" castsShadows="true" receiveShadows="true"/>
+        <Shape shapeId="60" name="banner" translation="-2.28897 0.1 1.24931" rotation="-180 -0 -180" clipDistance="300" nodeId="232" materialIds="39" castsShadows="true" receiveShadows="true"/>
+        <Shape shapeId="61" name="signBack" translation="0 1.42 -1.269" rotation="-1.5 0 0" static="true" clipDistance="300" nodeId="233" materialIds="37" castsShadows="true" receiveShadows="true">
+          <Shape shapeId="62" name="signSeed" translation="0 0 0.01036" clipDistance="300" nodeId="234" materialIds="44" castsShadows="true" receiveShadows="true"/>
         </Shape>
       </TransformGroup>
       <TransformGroup name="Lights" nodeId="235">
-        <Shape shapeId="63" name="floodLightBlue" translation="0 1.64676 -1.2297" clipDistance="300" nodeId="236" materialIds="39" castsShadows="true" receiveShadows="true">
-          <Shape shapeId="64" name="floodLight_lamp" translation="-1.25237e-08 -0.001 0.0173559" rotation="-180 -8.03986 -90" clipDistance="80" nodeId="237" materialIds="39" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="63" name="floodLightBlue" translation="0 1.64676 -1.2297" clipDistance="300" nodeId="236" materialIds="29" castsShadows="true" receiveShadows="true">
+          <Shape shapeId="64" name="floodLight_lamp" translation="-1.25237e-08 -0.001 0.0173559" rotation="-180 -8.03986 -90" clipDistance="80" nodeId="237" materialIds="29" castsShadows="true" receiveShadows="true">
             <TransformGroup name="auto" nodeId="238">
               <TransformGroup name="illum" translation="2.38419e-07 0 0" rotation="0 -0 7.12444e-13" visibility="false" nodeId="239">
-                <Shape shapeId="65" name="glass" translation="0.0373901 0 0" clipDistance="200" nodeId="240" materialIds="4" castsShadows="true" receiveShadows="true"/>
+                <Shape shapeId="65" name="glass" translation="0.0373901 0 0" clipDistance="200" nodeId="240" materialIds="21" castsShadows="true" receiveShadows="true"/>
                 <Light name="spotLight" translation="0.0267166 7.10543e-15 -0.0539543" rotation="0 -90 0" clipDistance="400" nodeId="241" type="spot" color="0.2 0.5 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.005" depthMapSlopeScaleBias="0.005" depthMapSlopeClamp="0.02" depthMapResolution="1024" shadowFarDistance="80" shadowExtrusionDistance="200" shadowPerspective="false" decayRate="1" range="1.5" coneAngle="60" dropOff="4"/>
               </TransformGroup>
             </TransformGroup>
@@ -538,13 +548,13 @@
           <TransformGroup name="auto" nodeId="243">
             <TransformGroup name="illum" translation="-2.48973 0.25 1.24281" visibility="false" nodeId="244">
               <Light name="pointLight" translation="0 0.1 0" rotation="0 -90 0" clipDistance="300" nodeId="245" type="point" color="0.8 0.5 0.3" emitDiffuse="true" emitSpecular="true" decayRate="1" range="10"/>
-              <Shape shapeId="66" name="Metal_Emissive" translation="-5.8975e-13 -0.19 0" clipDistance="500" nodeId="246" materialIds="17" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="66" name="Metal_Emissive" translation="-5.8975e-13 -0.19 0" clipDistance="500" nodeId="246" materialIds="18" castsShadows="true" receiveShadows="true"/>
             </TransformGroup>
           </TransformGroup>
           <TransformGroup name="switch" visibility="false" nodeId="247">
             <TransformGroup name="illum" translation="-2.48973 0.25 1.24281" nodeId="248">
               <Light name="pointLight" translation="0 0.1 0" rotation="0 -90 0" clipDistance="300" nodeId="249" type="point" color="0.8 0.5 0.3" emitDiffuse="true" emitSpecular="true" decayRate="1" range="10"/>
-              <Shape shapeId="66" name="Metal_Emissive" translation="-5.8975e-13 -0.19 0" clipDistance="500" nodeId="250" materialIds="17" castsShadows="true" receiveShadows="true"/>
+              <Shape shapeId="66" name="Metal_Emissive" translation="-5.8975e-13 -0.19 0" clipDistance="500" nodeId="250" materialIds="18" castsShadows="true" receiveShadows="true"/>
             </TransformGroup>
           </TransformGroup>
         </TransformGroup>
@@ -570,10 +580,10 @@
         </TransformGroup>
       </TransformGroup>
       <TransformGroup name="warningStripes" translation="0 -0.191009 2.594" visibility="false" nodeId="264">
-        <Shape shapeId="67" name="warningStripesCorner1" translation="-0.2 0 1" rotation="-180 -0 -180" clipDistance="200" nodeId="265" materialIds="36" receiveShadows="true" decalLayer="1"/>
-        <Shape shapeId="68" name="warningStripesCorner2" translation="-0.2 0 0" clipDistance="200" nodeId="266" materialIds="36" receiveShadows="true" decalLayer="1"/>
-        <Shape shapeId="69" name="warningStripesCorner3" translation="0.2 0 0" clipDistance="200" nodeId="267" materialIds="36" receiveShadows="true" decalLayer="1"/>
-        <Shape shapeId="70" name="warningStripesCorner4" translation="0.2 -1.28525e-07 1" rotation="180 -5.00896e-06 180" clipDistance="200" nodeId="268" materialIds="36" receiveShadows="true" decalLayer="1"/>
+        <Shape shapeId="67" name="warningStripesCorner1" translation="-0.2 0 1" rotation="-180 -0 -180" clipDistance="200" nodeId="265" materialIds="42" receiveShadows="true" decalLayer="1"/>
+        <Shape shapeId="68" name="warningStripesCorner2" translation="-0.2 0 0" clipDistance="200" nodeId="266" materialIds="42" receiveShadows="true" decalLayer="1"/>
+        <Shape shapeId="69" name="warningStripesCorner3" translation="0.2 0 0" clipDistance="200" nodeId="267" materialIds="42" receiveShadows="true" decalLayer="1"/>
+        <Shape shapeId="70" name="warningStripesCorner4" translation="0.2 -1.28525e-07 1" rotation="180 -5.00896e-06 180" clipDistance="200" nodeId="268" materialIds="42" receiveShadows="true" decalLayer="1"/>
       </TransformGroup>
     </TransformGroup>
   </Scene>
